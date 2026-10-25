@@ -10,43 +10,24 @@ collecting wallet trades
   ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
   ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
   ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  wallet 5YRgrP…: 58 new tx, 0 swaps
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  wallet CyaE1V…: 3 new tx, 0 swaps
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  wallet 4vw54B…: 4 new tx, 0 swaps
-  wallet 4BdKax…: 4 new tx, 0 swaps
+  wallet 5YRgrP…: 60 new tx, 0 swaps
+  wallet CyaE1V…: 0 new tx, 0 swaps
+  wallet 4vw54B…: 0 new tx, 0 swaps
+  wallet 4BdKax…: 0 new tx, 0 swaps
   ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
   ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
   ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
   ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  wallet G3gZWq…: 16 new tx, 0 swaps
   ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
   ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  wallet G3gZWq…: 60 new tx, 0 swaps
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  wallet DuGezK…: 21 new tx, 3 swaps
   ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
   ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  wallet 6KR7So…: 18 new tx, 0 swaps
   ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  wallet DuGezK…: 60 new tx, 11 swaps
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  wallet 6KR7So…: 60 new tx, 36 swaps
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  wallet 7SDs3P…: 59 new tx, 0 swaps
-47 new events
+  wallet 7SDs3P…: 12 new tx, 0 swaps
+3 new events
 updating prices
-  prices: updated 22 events, 83 calls left, 3 waiting
-report: 8 people, 0 posts, 47 trades
+  prices: updated 25 events, 117 calls left, 3 waiting
+report: 8 people, 0 posts, 50 trades

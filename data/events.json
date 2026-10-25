@@ -694,5 +694,59 @@
   "link": "https://solscan.io/tx/2hqMu6Gj9j2fEyCrQ6qNvZ7Q84ugWv3rXfSwxPZefZYPhTKXSpGhxs19fQtGiXtWG66oQrypSe6gLfG7quLeF7ft",
   "size_sol": 0.5642,
   "size_usd": 0
+ },
+ {
+  "id": "w:2mDqseEJU2MDgDhwjPjPkBRLGc7EqcWVPdyADvxrHKYJPtr2fBZegaXCRzDDcfzjJKWRJbwX4NoPHxiPonho4VRN:EVQtaC7JhakRZr4deKv8nbhqs9YaRt3eVDxt6DyQo6ea",
+  "kind": "buy",
+  "person": "Eddy",
+  "source": "DuGe…QHjx",
+  "wallet": "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx",
+  "ts": 1792914695,
+  "address": "EVQtaC7JhakRZr4deKv8nbhqs9YaRt3eVDxt6DyQo6ea",
+  "link": "https://solscan.io/tx/2mDqseEJU2MDgDhwjPjPkBRLGc7EqcWVPdyADvxrHKYJPtr2fBZegaXCRzDDcfzjJKWRJbwX4NoPHxiPonho4VRN",
+  "size_sol": -0.0015,
+  "size_usd": 7.16,
+  "token": "EVQtaC7JhakRZr4deKv8nbhqs9YaRt3eVDxt6DyQo6ea",
+  "symbol": "PVE",
+  "r": {
+   "entry": 0.00010106245833902028,
+   "h1": 8.89640057770273e-05
+  }
+ },
+ {
+  "id": "w:28ZdLvgHWnwoNJDhwn1H4V2RrXAY2M8rZ7BFGn89kZywkeACqjcWsQfykACSvL5UN79aMXcBz3e3A4JN9xKd6KoK:EVQtaC7JhakRZr4deKv8nbhqs9YaRt3eVDxt6DyQo6ea",
+  "kind": "buy",
+  "person": "Eddy",
+  "source": "DuGe…QHjx",
+  "wallet": "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx",
+  "ts": 1792914704,
+  "address": "EVQtaC7JhakRZr4deKv8nbhqs9YaRt3eVDxt6DyQo6ea",
+  "link": "https://solscan.io/tx/28ZdLvgHWnwoNJDhwn1H4V2RrXAY2M8rZ7BFGn89kZywkeACqjcWsQfykACSvL5UN79aMXcBz3e3A4JN9xKd6KoK",
+  "size_sol": 7.0001,
+  "size_usd": 0,
+  "token": "EVQtaC7JhakRZr4deKv8nbhqs9YaRt3eVDxt6DyQo6ea",
+  "symbol": "PVE",
+  "r": {
+   "entry": 0.00010106245833902028,
+   "h1": 8.89640057770273e-05
+  }
+ },
+ {
+  "id": "w:5RSxjSwhietU8zfmsVtbedSeLUnyCJbvxq1L42nieMR4v3eRBDzJhZutNTrF8aFV83Vpqu5p4Wt39GNMedQ2Uu3Y:EVQtaC7JhakRZr4deKv8nbhqs9YaRt3eVDxt6DyQo6ea",
+  "kind": "buy",
+  "person": "Eddy",
+  "source": "DuGe…QHjx",
+  "wallet": "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx",
+  "ts": 1792914710,
+  "address": "EVQtaC7JhakRZr4deKv8nbhqs9YaRt3eVDxt6DyQo6ea",
+  "link": "https://solscan.io/tx/5RSxjSwhietU8zfmsVtbedSeLUnyCJbvxq1L42nieMR4v3eRBDzJhZutNTrF8aFV83Vpqu5p4Wt39GNMedQ2Uu3Y",
+  "size_sol": 0.35,
+  "size_usd": 0,
+  "token": "EVQtaC7JhakRZr4deKv8nbhqs9YaRt3eVDxt6DyQo6ea",
+  "symbol": "PVE",
+  "r": {
+   "entry": 0.00010106245833902028,
+   "h1": 8.89640057770273e-05
+  }
  }
 ]
