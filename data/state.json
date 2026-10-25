@@ -276,16 +276,61 @@
    "token": "5ANeG7zkn8b8q57iZCoZHP25YeAvxKCAYQRjTnowbHKo",
    "pool": "HKyQqnYK68d4D4ZPmV6NtJSvynhKHq4J85mCMBgbtad9",
    "symbol": "PAD"
+  },
+  "2oAztchJv6gsPzJ8A539KauiAcT6PN9zaUiZTaMC56jg": {
+   "token": "2oAztchJv6gsPzJ8A539KauiAcT6PN9zaUiZTaMC56jg",
+   "pool": "GoxSFPpCGem6UbBYzozJ9JeYXmksMRGkaAGhW6N51DjG",
+   "symbol": "psyop"
+  },
+  "2LYwj8onwJvfndcNRRy44YNvQ8gqvw4DUD6GJ7LXpump": {
+   "token": "2LYwj8onwJvfndcNRRy44YNvQ8gqvw4DUD6GJ7LXpump",
+   "pool": "58Q2mCHciduZY4HgxCo8R7LTApYGgjUDFi7QAHL4cJ9u",
+   "symbol": "AUC"
+  },
+  "4za3s1LwdU5TUuWvEEeXSATazfAMTdw3Fv6McxBRpump": {
+   "token": "4za3s1LwdU5TUuWvEEeXSATazfAMTdw3Fv6McxBRpump",
+   "pool": "4MPnA7qddT15V9b2YEg4gKaZKfn7RjpV3HqorLsEuTQC",
+   "symbol": "희망이"
+  },
+  "5YP4ke6LqbWKcpeyT58kiK4p4sxFcZivrYm5VQXypump": {
+   "token": "5YP4ke6LqbWKcpeyT58kiK4p4sxFcZivrYm5VQXypump",
+   "pool": "AC3aXwJtxd2HYHmstbJNUXBPGhd3k2FkmqGK8G5KpfFT",
+   "symbol": "TCC"
+  },
+  "ChLHSZD9sWb3zxWcgxwDag4zv66D4KKRoV3bMtt9pump": {
+   "token": "ChLHSZD9sWb3zxWcgxwDag4zv66D4KKRoV3bMtt9pump",
+   "pool": "ECYLEUMy1HNFX1ckHCLjm7eirB3YgFY8TDRepDWUDZeQ",
+   "symbol": "NICKIBUTT"
+  },
+  "HY51Y9jEHgEbRLAkoBQ4T3oyzXSwfGAPVmMnN4Wppump": {
+   "token": "HY51Y9jEHgEbRLAkoBQ4T3oyzXSwfGAPVmMnN4Wppump",
+   "pool": "AwfaJDnGJo5Ha4razQseAGwrJtueZzG4hK9oASfBx7fq",
+   "symbol": "PAKI"
+  },
+  "FYMViQcq3ZwioYbsvMphGHDt2fJYCEuh8y52og6tpump": {
+   "token": "FYMViQcq3ZwioYbsvMphGHDt2fJYCEuh8y52og6tpump",
+   "pool": "4iwRm6UfGWJFgwN1sbtLsiNoyJgnH8X3r1cwASSY4Hhj",
+   "symbol": "PAKI"
+  },
+  "8ss9z1yBofSP4k5BNwL5XurisVASqL7reECxYXdc9om2": {
+   "token": "8ss9z1yBofSP4k5BNwL5XurisVASqL7reECxYXdc9om2",
+   "pool": "CsNhQjWmBhcbDoNfehonxjSmvXNUYDvDhNLonPTq9asg",
+   "symbol": "Nicki"
+  },
+  "AtsTMEihXJzEkKx5dci4WbY9wrHuCZMEWEyvsom8H2Yo": {
+   "token": "AtsTMEihXJzEkKx5dci4WbY9wrHuCZMEWEyvsom8H2Yo",
+   "pool": "38nxXJjo4BchmQB8j3qabagp2HpTtMqqKXXpLAKm4woh",
+   "symbol": "PMDA"
   }
  },
  "wallets": {
-  "5YRgrP3mjGzrzirYYN5HAQH19cTYREYwGxW6XRJQUzij": "2vNzxZNUfaRGKYA1tWmeHUPxRZAxcY8spMZMg2M98FJxbCxpWo8VkeK5nMbTXYd4MkTnkH5Q4LUYhdQWLQKZP4au",
-  "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o": "HoocKMLwq764y82ocMFD5hL9asFEg6bZ4pdZP7Ts5fDrHFXA5yqwTh8AtqC9K9SUwCWiKfuCPh5J5KrkvGkGVT7",
-  "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9": "HoocKMLwq764y82ocMFD5hL9asFEg6bZ4pdZP7Ts5fDrHFXA5yqwTh8AtqC9K9SUwCWiKfuCPh5J5KrkvGkGVT7",
+  "5YRgrP3mjGzrzirYYN5HAQH19cTYREYwGxW6XRJQUzij": "3uA5ZTsauNSnyhkY6nWFrtozsAuykrL9coHAUwXMh3TzkK4CyKcr8PMZYtZEkkgBMDzPt1EtB9D8TWm5oRwT6GD7",
+  "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o": "rRqaM7gmxKg19MnwR2xDJFt9aBJCkJCyFbz5dUXSqqYVT1CCxz82tMx9hwJaGExPjj4yb8ipZskdxc3kMGDrfFu",
+  "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9": "5Z89ZT96EYvypk3cXfzE8J5WoyzhbTC5hmAwNTidQy1mV3P5BBgqRDhvCNx66oaBw6H7DpzjJQn37EpreXDxvCrf",
   "4BdKaxN8G6ka4GYtQQWk4G4dZRUTX2vQH9GcXdBREFUk": "3R1fh5Qvw5G1eYc2gxRM5C6z15cpCCDF1cevKKLB4J6GdjHtho16DeNdej172YXwTQHqfLRhyeH34EDrxVkkNJnN",
-  "G3gZWqrYkNmYFKYCyfRCNtGuxdyuE2wiYKkZpiZn4WSS": "5wycWv2TSs3w7kyYX3vcXZhPtU7QWKc1LU7bqePXNRZDfc96iwWnkSS6BYZibegyoabS1QbgcvBQDHyTLZideFq9",
+  "G3gZWqrYkNmYFKYCyfRCNtGuxdyuE2wiYKkZpiZn4WSS": "4mAsSamAarZagX4sxqhHf861EMJvBqJgCMzPXQHPbcTDgUvRd5znWXfUQCjJs5dkenjQ2ihmucbBx3tSjwLk4xpd",
   "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx": "5Tt8XBBNR2HYaxRmcGk436Qv4H59zgaDkBXoLEt5rUxjbmtt7BQwyojjmUCahvKVbcMGEVBKjiHLeEeKhjr2eTFu",
-  "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT": "359VubVegji18RvgFaMjHrV7E29ybapwhmM7a7BDS2BAG3PQAk6Y3GGEFd8Vm7i86dv8tp7Kush7auq1btr7SH1Z",
+  "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT": "4AkQdwYy6Ne7rV3dbgkBJ5mxn8u1rhXJm8WjDw539m3kQQigUXfBt5u9KnSeY4vsCRnNv9A4MAgdE8NwULmgH1L9",
   "7SDs3PjT2mswKQ7Zo4FTucn9gJdtuW4jaacPA65BseHS": "29Ksn7idxZH75akocWV33z7jnZAbd2U5v6GXy2kvedyQkuzSKuXq1UjJ3vXR6PspoWG2XXvc3gKuo7KVCdcjPaE8"
  }
 }
