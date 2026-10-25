@@ -97,13 +97,26 @@ def score(s: dict):
     return None, None
 
 
+def first_per_token(evs: list[dict], window: int = 86400) -> list[dict]:
+    """Count a token once per person per day: split buys and repeat posts are one call."""
+    out, last = [], {}
+    for e in sorted(evs, key=lambda e: e["ts"]):
+        key = e.get("token") or e["address"]
+        if key in last and e["ts"] - last[key] < window:
+            continue
+        last[key] = e["ts"]
+        out.append(e)
+    return out
+
+
 def build(events: list[dict], persons_cfg: list[dict]) -> dict:
     enrich(events)
-    persons = []
+    persons, shown = [], []
     for p in persons_cfg:
         name = p["name"]
-        posts = [e for e in events if e["person"] == name and e["kind"] == "post"]
-        buys = [e for e in events if e["person"] == name and e["kind"] == "buy"]
+        posts = first_per_token([e for e in events if e["person"] == name and e["kind"] == "post"])
+        buys = first_per_token([e for e in events if e["person"] == name and e["kind"] == "buy"])
+        shown += posts + buys
         ps, bs = summarize(posts), summarize(buys)
         checked = [e for e in posts if e.get("checked_wallet") and e.get("r", {}).get("entry")]
         pre = _rate(e["pre_buy"] for e in checked)
@@ -126,7 +139,7 @@ def build(events: list[dict], persons_cfg: list[dict]) -> dict:
         })
     persons.sort(key=lambda x: (x["score"] is None, -(x["score"] or 0)))
 
-    recent = sorted((e for e in events if e["kind"] in ("post", "buy")),
+    recent = sorted(shown,
                     key=lambda e: e["ts"], reverse=True)[:80]
     slim = [{
         "kind": e["kind"], "person": e["person"], "source": e["source"], "ts": e["ts"],
