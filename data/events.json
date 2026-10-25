@@ -1157,7 +1157,8 @@
   "token": "3BXBmXCnvqeYKQgWFZcGuoyyFUDw5hXpLFB7DxKdpump",
   "symbol": "Pose",
   "r": {
-   "entry": 7.993172700322523e-06
+   "entry": 7.993172700322523e-06,
+   "h1": 3.1071619869719725e-06
   }
  },
  {
@@ -1174,7 +1175,8 @@
   "token": "3BXBmXCnvqeYKQgWFZcGuoyyFUDw5hXpLFB7DxKdpump",
   "symbol": "Pose",
   "r": {
-   "entry": 7.993172700322523e-06
+   "entry": 7.993172700322523e-06,
+   "h1": 3.1071619869719725e-06
   }
  },
  {
@@ -1188,5 +1190,931 @@
   "link": "https://solscan.io/tx/3ntimkgqmK61wXAcMzXK9cxqRRZureH9MqZrhDYDyCLQX7zEtDM3hhzxHxzWydNWvMHPSs3AZfxr5gUZ6fhACdfS",
   "size_sol": 2.0685,
   "size_usd": 0.0
+ },
+ {
+  "id": "w:uRCXWEN265fGhWMbDnhcEqnc1GZJP7ZqmyHahgakXXWVjrpcdcF8RYBcLvew64kheqmP3J7Bk2L56JtDXej2TJa:EVQtaC7JhakRZr4deKv8nbhqs9YaRt3eVDxt6DyQo6ea",
+  "kind": "buy",
+  "person": "Eddy",
+  "source": "DuGe…QHjx",
+  "wallet": "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx",
+  "ts": 1792938887,
+  "address": "EVQtaC7JhakRZr4deKv8nbhqs9YaRt3eVDxt6DyQo6ea",
+  "link": "https://solscan.io/tx/uRCXWEN265fGhWMbDnhcEqnc1GZJP7ZqmyHahgakXXWVjrpcdcF8RYBcLvew64kheqmP3J7Bk2L56JtDXej2TJa",
+  "size_sol": -0.0,
+  "size_usd": 1200.01,
+  "token": "EVQtaC7JhakRZr4deKv8nbhqs9YaRt3eVDxt6DyQo6ea",
+  "symbol": "PVE",
+  "r": {
+   "entry": 0.00013567055050777793,
+   "h1": 0.00012026999981563177
+  }
+ },
+ {
+  "id": "w:6FDtpprrwkiZZKiQ4wnywR2GhFoQV1GTjrEX5WBFzRJKtdtH5aJdryAfsm6MyApujK6UUJjifwgiUHHDjHuvjvT:GQ5Egb2CCkJxvxGQhzp3dJmKRGpTni2Mw4GnMvtppump",
+  "kind": "buy",
+  "person": "Eddy",
+  "source": "DuGe…QHjx",
+  "wallet": "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx",
+  "ts": 1792943649,
+  "address": "GQ5Egb2CCkJxvxGQhzp3dJmKRGpTni2Mw4GnMvtppump",
+  "link": "https://solscan.io/tx/6FDtpprrwkiZZKiQ4wnywR2GhFoQV1GTjrEX5WBFzRJKtdtH5aJdryAfsm6MyApujK6UUJjifwgiUHHDjHuvjvT",
+  "size_sol": -0.0,
+  "size_usd": 100.16,
+  "token": "GQ5Egb2CCkJxvxGQhzp3dJmKRGpTni2Mw4GnMvtppump",
+  "symbol": "HI",
+  "r": {
+   "no_entry": true
+  }
+ },
+ {
+  "id": "w:2JZnc92oWFwBu3LG3zM4PHywdKPTQb7rNet2LQwsfCGErRRRVFeaSeTPBh88gzp9yB3x3UZetZqtzFeFrwpj17UN:GQ5Egb2CCkJxvxGQhzp3dJmKRGpTni2Mw4GnMvtppump",
+  "kind": "buy",
+  "person": "Eddy",
+  "source": "DuGe…QHjx",
+  "wallet": "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx",
+  "ts": 1792943671,
+  "address": "GQ5Egb2CCkJxvxGQhzp3dJmKRGpTni2Mw4GnMvtppump",
+  "link": "https://solscan.io/tx/2JZnc92oWFwBu3LG3zM4PHywdKPTQb7rNet2LQwsfCGErRRRVFeaSeTPBh88gzp9yB3x3UZetZqtzFeFrwpj17UN",
+  "size_sol": -0.0,
+  "size_usd": 50.01,
+  "token": "GQ5Egb2CCkJxvxGQhzp3dJmKRGpTni2Mw4GnMvtppump",
+  "symbol": "HI",
+  "r": {
+   "no_entry": true
+  }
+ },
+ {
+  "id": "w:2nsaG5yxdMDZTAux258Qm6kRirk1QHeRGWS8Amyi3FbNvZrNTdfdqcckCZALFVFV7GrGWdWz9sCEkhhzmUhy42vr:GQ5Egb2CCkJxvxGQhzp3dJmKRGpTni2Mw4GnMvtppump",
+  "kind": "sell",
+  "person": "Eddy",
+  "source": "DuGe…QHjx",
+  "wallet": "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx",
+  "ts": 1792943690,
+  "address": "GQ5Egb2CCkJxvxGQhzp3dJmKRGpTni2Mw4GnMvtppump",
+  "link": "https://solscan.io/tx/2nsaG5yxdMDZTAux258Qm6kRirk1QHeRGWS8Amyi3FbNvZrNTdfdqcckCZALFVFV7GrGWdWz9sCEkhhzmUhy42vr",
+  "size_sol": 0.0,
+  "size_usd": 177.73
+ },
+ {
+  "id": "w:2stvKeGVDAS2PyUaBoRxT4QSDVJMyNXLAjmViuBFY63LJJ19hwatTv1MNuDDveNekvk4iCTzL5LphA7wgt7degj1:8gTqCuFnhybUMQnKqVoqd3q3qhjwZpdEjBxybS7Apump",
+  "kind": "buy",
+  "person": "Eddy",
+  "source": "DuGe…QHjx",
+  "wallet": "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx",
+  "ts": 1792946752,
+  "address": "8gTqCuFnhybUMQnKqVoqd3q3qhjwZpdEjBxybS7Apump",
+  "link": "https://solscan.io/tx/2stvKeGVDAS2PyUaBoRxT4QSDVJMyNXLAjmViuBFY63LJJ19hwatTv1MNuDDveNekvk4iCTzL5LphA7wgt7degj1",
+  "size_sol": -0.0015,
+  "size_usd": 180.16,
+  "token": "8gTqCuFnhybUMQnKqVoqd3q3qhjwZpdEjBxybS7Apump",
+  "symbol": "nevergoon",
+  "r": {
+   "entry": 1.6936598000018297e-05
+  }
+ },
+ {
+  "id": "w:2e5G2ZHVYfCXQcvy3u9GszzFTgu9QRSma2Ncf9MNL9RQm9WTiJv6PNoRMqThpzQoVKZM8oRWq1zJsD7ciB4SkDKQ:8gTqCuFnhybUMQnKqVoqd3q3qhjwZpdEjBxybS7Apump",
+  "kind": "buy",
+  "person": "Eddy",
+  "source": "DuGe…QHjx",
+  "wallet": "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx",
+  "ts": 1792946933,
+  "address": "8gTqCuFnhybUMQnKqVoqd3q3qhjwZpdEjBxybS7Apump",
+  "link": "https://solscan.io/tx/2e5G2ZHVYfCXQcvy3u9GszzFTgu9QRSma2Ncf9MNL9RQm9WTiJv6PNoRMqThpzQoVKZM8oRWq1zJsD7ciB4SkDKQ",
+  "size_sol": -0.0015,
+  "size_usd": 15.16,
+  "token": "8gTqCuFnhybUMQnKqVoqd3q3qhjwZpdEjBxybS7Apump",
+  "symbol": "nevergoon",
+  "r": {
+   "entry": 1.6936598000018297e-05
+  }
+ },
+ {
+  "id": "w:4MZBWNZgEpzAtP8LPKjcX4xndsH1RCGQaRgR35NqTfxmczFZMDBWeteY2pk3o68MH6yxLAg47QJVLZjvEboFR3nq:9UTExiraYUGZ1qyfA46gYLFRtYKwaYEFuCzfdUMPpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945036,
+  "address": "9UTExiraYUGZ1qyfA46gYLFRtYKwaYEFuCzfdUMPpump",
+  "link": "https://solscan.io/tx/4MZBWNZgEpzAtP8LPKjcX4xndsH1RCGQaRgR35NqTfxmczFZMDBWeteY2pk3o68MH6yxLAg47QJVLZjvEboFR3nq",
+  "size_sol": 0.98,
+  "size_usd": -0.0,
+  "token": "9UTExiraYUGZ1qyfA46gYLFRtYKwaYEFuCzfdUMPpump",
+  "symbol": "RK",
+  "r": {
+   "entry": 2.6129333935877438e-06,
+   "h1": 1.0233048109225981e-06
+  }
+ },
+ {
+  "id": "w:3S1qq47xyTZxgGLCmLsHSaQzLv66wwzhcrA53d167UCgCB9851rSjJgHbBSucYfyuuWGPaZSynjKeavrYUWrWMKk:9UTExiraYUGZ1qyfA46gYLFRtYKwaYEFuCzfdUMPpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945039,
+  "address": "9UTExiraYUGZ1qyfA46gYLFRtYKwaYEFuCzfdUMPpump",
+  "link": "https://solscan.io/tx/3S1qq47xyTZxgGLCmLsHSaQzLv66wwzhcrA53d167UCgCB9851rSjJgHbBSucYfyuuWGPaZSynjKeavrYUWrWMKk",
+  "size_sol": 0.222,
+  "size_usd": -0.0,
+  "token": "9UTExiraYUGZ1qyfA46gYLFRtYKwaYEFuCzfdUMPpump",
+  "symbol": "RK",
+  "r": {
+   "entry": 2.6129333935877438e-06,
+   "h1": 1.0233048109225981e-06
+  }
+ },
+ {
+  "id": "w:4wXwR8Ux7eduXME3ijUeCqh3x4kyWtWuKtR2Qtex2iJr7QiAMRnKXrPEN1zmMgbqPBpHf6TuAfcAxhMKWkMdJQEv:9UTExiraYUGZ1qyfA46gYLFRtYKwaYEFuCzfdUMPpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945062,
+  "address": "9UTExiraYUGZ1qyfA46gYLFRtYKwaYEFuCzfdUMPpump",
+  "link": "https://solscan.io/tx/4wXwR8Ux7eduXME3ijUeCqh3x4kyWtWuKtR2Qtex2iJr7QiAMRnKXrPEN1zmMgbqPBpHf6TuAfcAxhMKWkMdJQEv",
+  "size_sol": 0.222,
+  "size_usd": -0.0,
+  "token": "9UTExiraYUGZ1qyfA46gYLFRtYKwaYEFuCzfdUMPpump",
+  "symbol": "RK",
+  "r": {
+   "entry": 2.6129333935877438e-06,
+   "h1": 1.0233048109225981e-06
+  }
+ },
+ {
+  "id": "w:guyKt8pHCqG38FcB83KJWbUsWxDqfBotZTdLGJq4WhKRFZtY67MZDpXFjbipsQsuJjEfc4pp68MTCqLq6pYWntN:9UTExiraYUGZ1qyfA46gYLFRtYKwaYEFuCzfdUMPpump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945077,
+  "address": "9UTExiraYUGZ1qyfA46gYLFRtYKwaYEFuCzfdUMPpump",
+  "link": "https://solscan.io/tx/guyKt8pHCqG38FcB83KJWbUsWxDqfBotZTdLGJq4WhKRFZtY67MZDpXFjbipsQsuJjEfc4pp68MTCqLq6pYWntN",
+  "size_sol": 1.1559,
+  "size_usd": 0.0
+ },
+ {
+  "id": "w:3x2yMyStFrPqu7RaGHjEddfW6UJD83kUT9QA5Cxb3fjrZ4oXoA44u2z6jqavnwSFyrUen5KrWqgQRT2mYud7sN52:CaB9XYtPd2tTeWj57FkSJ8LZLSajNfbSMxmfaUwBpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945136,
+  "address": "CaB9XYtPd2tTeWj57FkSJ8LZLSajNfbSMxmfaUwBpump",
+  "link": "https://solscan.io/tx/3x2yMyStFrPqu7RaGHjEddfW6UJD83kUT9QA5Cxb3fjrZ4oXoA44u2z6jqavnwSFyrUen5KrWqgQRT2mYud7sN52",
+  "size_sol": 1.0904,
+  "size_usd": 0,
+  "token": "CaB9XYtPd2tTeWj57FkSJ8LZLSajNfbSMxmfaUwBpump",
+  "symbol": "BIP",
+  "r": {
+   "entry": 3.194323945110008e-06,
+   "h1": 2.9687043060148208e-06
+  }
+ },
+ {
+  "id": "w:4xwTNQgb93zAmN2nwd4wF85U5dykyijXMqcoxduGiWvMeRYDEVa3FYPEmM3ozDHCnG7vSNLysbg1tDz7CqQzQwe3:CaB9XYtPd2tTeWj57FkSJ8LZLSajNfbSMxmfaUwBpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945144,
+  "address": "CaB9XYtPd2tTeWj57FkSJ8LZLSajNfbSMxmfaUwBpump",
+  "link": "https://solscan.io/tx/4xwTNQgb93zAmN2nwd4wF85U5dykyijXMqcoxduGiWvMeRYDEVa3FYPEmM3ozDHCnG7vSNLysbg1tDz7CqQzQwe3",
+  "size_sol": 0.222,
+  "size_usd": 0,
+  "token": "CaB9XYtPd2tTeWj57FkSJ8LZLSajNfbSMxmfaUwBpump",
+  "symbol": "BIP",
+  "r": {
+   "entry": 3.194323945110008e-06,
+   "h1": 2.9687043060148208e-06
+  }
+ },
+ {
+  "id": "w:4Q674hvAPaWixD5ExvPLuymwJFDGvfYCo1ncm2Nd3xVKXgvQkJsyAcKEKFa8AFv82hS89sEDuj4ZssTyrZKMcQBE:CaB9XYtPd2tTeWj57FkSJ8LZLSajNfbSMxmfaUwBpump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945148,
+  "address": "CaB9XYtPd2tTeWj57FkSJ8LZLSajNfbSMxmfaUwBpump",
+  "link": "https://solscan.io/tx/4Q674hvAPaWixD5ExvPLuymwJFDGvfYCo1ncm2Nd3xVKXgvQkJsyAcKEKFa8AFv82hS89sEDuj4ZssTyrZKMcQBE",
+  "size_sol": 1.0466,
+  "size_usd": 0
+ },
+ {
+  "id": "w:2JHruDw9mxNGUirNZwqahHJ6i52WdXLq6BxjtfACGwoMJ5PGMPcPxtSZxLjMK6FyfGSMQPusUDhVWdqcKr3r88N:BHUrqxqx6hMPFC7Mewfm4uJ5cAV2KZGvanwUeFEJpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945280,
+  "address": "BHUrqxqx6hMPFC7Mewfm4uJ5cAV2KZGvanwUeFEJpump",
+  "link": "https://solscan.io/tx/2JHruDw9mxNGUirNZwqahHJ6i52WdXLq6BxjtfACGwoMJ5PGMPcPxtSZxLjMK6FyfGSMQPusUDhVWdqcKr3r88N",
+  "size_sol": 1.5236,
+  "size_usd": 0,
+  "token": "BHUrqxqx6hMPFC7Mewfm4uJ5cAV2KZGvanwUeFEJpump",
+  "symbol": "Kongo",
+  "r": {
+   "entry": 5.049624457355689e-05,
+   "h1": 2.756864778161922e-06
+  }
+ },
+ {
+  "id": "w:62AxfqVfTnHG1biNWQFTf1iHJgK461rS7wcz1RjFfSq1JYhwbuoGuzuvRYsh3Co2ejHMzamR3SYJ2R725c1UCefK:BHUrqxqx6hMPFC7Mewfm4uJ5cAV2KZGvanwUeFEJpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945290,
+  "address": "BHUrqxqx6hMPFC7Mewfm4uJ5cAV2KZGvanwUeFEJpump",
+  "link": "https://solscan.io/tx/62AxfqVfTnHG1biNWQFTf1iHJgK461rS7wcz1RjFfSq1JYhwbuoGuzuvRYsh3Co2ejHMzamR3SYJ2R725c1UCefK",
+  "size_sol": 0.222,
+  "size_usd": 0,
+  "token": "BHUrqxqx6hMPFC7Mewfm4uJ5cAV2KZGvanwUeFEJpump",
+  "symbol": "Kongo",
+  "r": {
+   "entry": 5.049624457355689e-05,
+   "h1": 2.756864778161922e-06
+  }
+ },
+ {
+  "id": "w:V5QN8EnFqpaAVoBVMb7eXc85BRNaFU48kDsXA7fNmy6TtoJWvf4ZWzoUJjZVU6nAg2TwpmQrTUhkf4Q8j5MYjoZ:BHUrqxqx6hMPFC7Mewfm4uJ5cAV2KZGvanwUeFEJpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945290,
+  "address": "BHUrqxqx6hMPFC7Mewfm4uJ5cAV2KZGvanwUeFEJpump",
+  "link": "https://solscan.io/tx/V5QN8EnFqpaAVoBVMb7eXc85BRNaFU48kDsXA7fNmy6TtoJWvf4ZWzoUJjZVU6nAg2TwpmQrTUhkf4Q8j5MYjoZ",
+  "size_sol": 0.222,
+  "size_usd": 0,
+  "token": "BHUrqxqx6hMPFC7Mewfm4uJ5cAV2KZGvanwUeFEJpump",
+  "symbol": "Kongo",
+  "r": {
+   "entry": 5.049624457355689e-05,
+   "h1": 2.756864778161922e-06
+  }
+ },
+ {
+  "id": "w:2f2PTTKgngVccpQxQgJgNoV2u4vXtR4PaGxmqzrUQWDjZCWPwYfvDVyq2ZLhHNsUCcyU2PSsyvrYxLwHEe9hVpDK:BHUrqxqx6hMPFC7Mewfm4uJ5cAV2KZGvanwUeFEJpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945342,
+  "address": "BHUrqxqx6hMPFC7Mewfm4uJ5cAV2KZGvanwUeFEJpump",
+  "link": "https://solscan.io/tx/2f2PTTKgngVccpQxQgJgNoV2u4vXtR4PaGxmqzrUQWDjZCWPwYfvDVyq2ZLhHNsUCcyU2PSsyvrYxLwHEe9hVpDK",
+  "size_sol": 0.222,
+  "size_usd": 0,
+  "token": "BHUrqxqx6hMPFC7Mewfm4uJ5cAV2KZGvanwUeFEJpump",
+  "symbol": "Kongo",
+  "r": {
+   "entry": 5.049624457355689e-05,
+   "h1": 2.756864778161922e-06
+  }
+ },
+ {
+  "id": "w:4PQZWAJqWbNQFLUs2T3AtP3FTjW5RWWn7RU5gDQyLqTUtgdyXSJVx7vwv7WjVQLWmBBCgrsvr6eT6sypYrGQujGF:BHUrqxqx6hMPFC7Mewfm4uJ5cAV2KZGvanwUeFEJpump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945359,
+  "address": "BHUrqxqx6hMPFC7Mewfm4uJ5cAV2KZGvanwUeFEJpump",
+  "link": "https://solscan.io/tx/4PQZWAJqWbNQFLUs2T3AtP3FTjW5RWWn7RU5gDQyLqTUtgdyXSJVx7vwv7WjVQLWmBBCgrsvr6eT6sypYrGQujGF",
+  "size_sol": 1.9355,
+  "size_usd": 0
+ },
+ {
+  "id": "w:4q31tBcw39pYvtRbbEFYcAwzDtcWY17AZabSuwndb1x97zo2XtywsvtcFFpNYyQF3buLSwnbT9qdCBFfSSw4K9VA:BHUrqxqx6hMPFC7Mewfm4uJ5cAV2KZGvanwUeFEJpump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945409,
+  "address": "BHUrqxqx6hMPFC7Mewfm4uJ5cAV2KZGvanwUeFEJpump",
+  "link": "https://solscan.io/tx/4q31tBcw39pYvtRbbEFYcAwzDtcWY17AZabSuwndb1x97zo2XtywsvtcFFpNYyQF3buLSwnbT9qdCBFfSSw4K9VA",
+  "size_sol": 3.7665,
+  "size_usd": 0
+ },
+ {
+  "id": "w:5NnqQz8BiwMMuJDFR5Mnra6UjAsdDVLyvBLwTU1cqnSjQ6QpBQEMuvSDBbEheHAbL5pU5vE4EVRp7U9e4mLymMZy:4qKGEn2mdYyCA7E1rswFqXmaHzHiPJjb5NuAoge7pump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945616,
+  "address": "4qKGEn2mdYyCA7E1rswFqXmaHzHiPJjb5NuAoge7pump",
+  "link": "https://solscan.io/tx/5NnqQz8BiwMMuJDFR5Mnra6UjAsdDVLyvBLwTU1cqnSjQ6QpBQEMuvSDBbEheHAbL5pU5vE4EVRp7U9e4mLymMZy",
+  "size_sol": 0.8915,
+  "size_usd": 0,
+  "token": "4qKGEn2mdYyCA7E1rswFqXmaHzHiPJjb5NuAoge7pump",
+  "symbol": "MBOKA",
+  "r": {
+   "entry": 3.2821577711154535e-06,
+   "h1": 2.8906151201830164e-06
+  }
+ },
+ {
+  "id": "w:4wxc2mapb7BQW7sh3KXbtuBh5uDVJwuGVjEApEq5VeF3W49DLzoWB9LsqcvJ4JvQphviyRDZxYeRm1LLUE5tAmcD:4qKGEn2mdYyCA7E1rswFqXmaHzHiPJjb5NuAoge7pump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945628,
+  "address": "4qKGEn2mdYyCA7E1rswFqXmaHzHiPJjb5NuAoge7pump",
+  "link": "https://solscan.io/tx/4wxc2mapb7BQW7sh3KXbtuBh5uDVJwuGVjEApEq5VeF3W49DLzoWB9LsqcvJ4JvQphviyRDZxYeRm1LLUE5tAmcD",
+  "size_sol": 0.7497,
+  "size_usd": 0
+ },
+ {
+  "id": "w:3MdBv5AMn7Di45y32PYiLLn8SXW5NrLVKBr51pnXGrKiZKP8Pjjn7ZmUuA7RgnRcv7858v5zgCbB5zp6CRph4Xgg:C4WziA5BzBWRxr9ZcUZMY77LEzH2SQP3sLxPdUzJpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945949,
+  "address": "C4WziA5BzBWRxr9ZcUZMY77LEzH2SQP3sLxPdUzJpump",
+  "link": "https://solscan.io/tx/3MdBv5AMn7Di45y32PYiLLn8SXW5NrLVKBr51pnXGrKiZKP8Pjjn7ZmUuA7RgnRcv7858v5zgCbB5zp6CRph4Xgg",
+  "size_sol": 2.3125,
+  "size_usd": 0,
+  "token": "C4WziA5BzBWRxr9ZcUZMY77LEzH2SQP3sLxPdUzJpump",
+  "symbol": "Bobina",
+  "r": {
+   "entry": 7.649130445609098e-06,
+   "h1": 3.1565468329283687e-06
+  }
+ },
+ {
+  "id": "w:2XJrAebgrVVRTMjgoFRxj9sM1PyFwDr2okBdm29HY1zM4KuG2TN3frBDbfALpTgRW298u6VuiaTAYzN5nFn8GKM9:C4WziA5BzBWRxr9ZcUZMY77LEzH2SQP3sLxPdUzJpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792945968,
+  "address": "C4WziA5BzBWRxr9ZcUZMY77LEzH2SQP3sLxPdUzJpump",
+  "link": "https://solscan.io/tx/2XJrAebgrVVRTMjgoFRxj9sM1PyFwDr2okBdm29HY1zM4KuG2TN3frBDbfALpTgRW298u6VuiaTAYzN5nFn8GKM9",
+  "size_sol": 0.222,
+  "size_usd": 0,
+  "token": "C4WziA5BzBWRxr9ZcUZMY77LEzH2SQP3sLxPdUzJpump",
+  "symbol": "Bobina",
+  "r": {
+   "entry": 7.649130445609098e-06,
+   "h1": 3.1565468329283687e-06
+  }
+ },
+ {
+  "id": "w:25LWw8QjLd41oKtphMa7rgzhznZTsNMqjWfgMg29X2fv2iQdf63SSgfYBYPvixZZWQhKBB29czUC2VhaXdKe99vT:C4WziA5BzBWRxr9ZcUZMY77LEzH2SQP3sLxPdUzJpump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792946077,
+  "address": "C4WziA5BzBWRxr9ZcUZMY77LEzH2SQP3sLxPdUzJpump",
+  "link": "https://solscan.io/tx/25LWw8QjLd41oKtphMa7rgzhznZTsNMqjWfgMg29X2fv2iQdf63SSgfYBYPvixZZWQhKBB29czUC2VhaXdKe99vT",
+  "size_sol": 1.1207,
+  "size_usd": 0
+ },
+ {
+  "id": "w:2K6nX9kCMLeUqegtSrKzf61JfkfhE3oLepUshQrwUPRav7SQnAssPm7kK3ZdqucfQwURTXcbsUMm9d7iJwiBQmE7:5fR2B7R8PQLUhryJ36soJJ6DafCRNCW1ceKWWGJbpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792946173,
+  "address": "5fR2B7R8PQLUhryJ36soJJ6DafCRNCW1ceKWWGJbpump",
+  "link": "https://solscan.io/tx/2K6nX9kCMLeUqegtSrKzf61JfkfhE3oLepUshQrwUPRav7SQnAssPm7kK3ZdqucfQwURTXcbsUMm9d7iJwiBQmE7",
+  "size_sol": 0.8963,
+  "size_usd": 0,
+  "token": "5fR2B7R8PQLUhryJ36soJJ6DafCRNCW1ceKWWGJbpump",
+  "symbol": "PRIVACY",
+  "r": {
+   "entry": 2.8485054474430803e-06,
+   "h1": 2.8316792919367404e-06
+  }
+ },
+ {
+  "id": "w:45cU8Tu9BPCmDMkPbHpQNCEL1c2KriEUwp6eSUbqL6UYiAT8vnYnnZvrw5MUc3RNKYG37tg85pLhfkXrx6QV2rYK:5fR2B7R8PQLUhryJ36soJJ6DafCRNCW1ceKWWGJbpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792946178,
+  "address": "5fR2B7R8PQLUhryJ36soJJ6DafCRNCW1ceKWWGJbpump",
+  "link": "https://solscan.io/tx/45cU8Tu9BPCmDMkPbHpQNCEL1c2KriEUwp6eSUbqL6UYiAT8vnYnnZvrw5MUc3RNKYG37tg85pLhfkXrx6QV2rYK",
+  "size_sol": 0.1267,
+  "size_usd": 0,
+  "token": "5fR2B7R8PQLUhryJ36soJJ6DafCRNCW1ceKWWGJbpump",
+  "symbol": "PRIVACY",
+  "r": {
+   "entry": 2.8485054474430803e-06,
+   "h1": 2.8316792919367404e-06
+  }
+ },
+ {
+  "id": "w:35cMoJJXiijjfNTHBSByViSeJhSXgkmZi1zunNSfVjSpcKa3Jxxnitcy7X4RvKoM8acQicFEiQKpWuxKmA5u5n5k:6MzbacWiYuwdL9ZJNNMiwrSEZ6GrJDzLqnWgNfXdpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792946183,
+  "address": "6MzbacWiYuwdL9ZJNNMiwrSEZ6GrJDzLqnWgNfXdpump",
+  "link": "https://solscan.io/tx/35cMoJJXiijjfNTHBSByViSeJhSXgkmZi1zunNSfVjSpcKa3Jxxnitcy7X4RvKoM8acQicFEiQKpWuxKmA5u5n5k",
+  "size_sol": 1.5205,
+  "size_usd": 0,
+  "token": "6MzbacWiYuwdL9ZJNNMiwrSEZ6GrJDzLqnWgNfXdpump",
+  "symbol": "Hexumlite",
+  "r": {
+   "entry": 3.0116495022609347e-06,
+   "h1": 2.898552882781342e-06
+  }
+ },
+ {
+  "id": "w:2Q91HcyVXpomLfkyVormRyKWpJPS1BGptEML1FEfVfHSPqawTguvBURcVjiK5xxhfyZz2TuFvoQfTmQ9Cvbs8kDC:5fR2B7R8PQLUhryJ36soJJ6DafCRNCW1ceKWWGJbpump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792946184,
+  "address": "5fR2B7R8PQLUhryJ36soJJ6DafCRNCW1ceKWWGJbpump",
+  "link": "https://solscan.io/tx/2Q91HcyVXpomLfkyVormRyKWpJPS1BGptEML1FEfVfHSPqawTguvBURcVjiK5xxhfyZz2TuFvoQfTmQ9Cvbs8kDC",
+  "size_sol": 0.7618,
+  "size_usd": 0
+ },
+ {
+  "id": "w:3E57vq9yZxjXFn7Aebpo1G3u9JwFTFwDsATAPL8hCn6MJ9w5FjQoZ77sRHNLL8h9NPRFTeX8xkLDoMvqLzFNgCaK:6MzbacWiYuwdL9ZJNNMiwrSEZ6GrJDzLqnWgNfXdpump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792946198,
+  "address": "6MzbacWiYuwdL9ZJNNMiwrSEZ6GrJDzLqnWgNfXdpump",
+  "link": "https://solscan.io/tx/3E57vq9yZxjXFn7Aebpo1G3u9JwFTFwDsATAPL8hCn6MJ9w5FjQoZ77sRHNLL8h9NPRFTeX8xkLDoMvqLzFNgCaK",
+  "size_sol": 0.3003,
+  "size_usd": 0
+ },
+ {
+  "id": "w:4a8QoLAT3KcBRY2kSoxdnwRSfKAaTR97DBUVF1M21CsPHVjrxcn3yeg5PtLCmSuub4H4iVXM9jVmkaUuSJroFV3q:6MzbacWiYuwdL9ZJNNMiwrSEZ6GrJDzLqnWgNfXdpump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792946210,
+  "address": "6MzbacWiYuwdL9ZJNNMiwrSEZ6GrJDzLqnWgNfXdpump",
+  "link": "https://solscan.io/tx/4a8QoLAT3KcBRY2kSoxdnwRSfKAaTR97DBUVF1M21CsPHVjrxcn3yeg5PtLCmSuub4H4iVXM9jVmkaUuSJroFV3q",
+  "size_sol": 1.261,
+  "size_usd": 0
+ },
+ {
+  "id": "w:4bdw9P7AcRAjpL4jb2daQErpeyHb1fpzhrR5Wp2CQgbbDXvT5JZQK2LRbDnyAhiW59ApqrDimY4tNFycpWuUPVWh:F2ZgkMDvCKhpxwLciMaVCVjXuB8UdwJMm2AwZmSHpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792946546,
+  "address": "F2ZgkMDvCKhpxwLciMaVCVjXuB8UdwJMm2AwZmSHpump",
+  "link": "https://solscan.io/tx/4bdw9P7AcRAjpL4jb2daQErpeyHb1fpzhrR5Wp2CQgbbDXvT5JZQK2LRbDnyAhiW59ApqrDimY4tNFycpWuUPVWh",
+  "size_sol": 1.2605,
+  "size_usd": -0.0,
+  "token": "F2ZgkMDvCKhpxwLciMaVCVjXuB8UdwJMm2AwZmSHpump",
+  "symbol": "cracked",
+  "r": {
+   "entry": 4.363030548158135e-05
+  }
+ },
+ {
+  "id": "w:2ByDC4RJhUmDwAcunTM1S3UzzcYDAor1Ck8niiCxJY8oVAKsbMyXKCZbdFH7M5ATvrPBGJt5DXCVuT7bwZXiHxa5:F2ZgkMDvCKhpxwLciMaVCVjXuB8UdwJMm2AwZmSHpump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792946601,
+  "address": "F2ZgkMDvCKhpxwLciMaVCVjXuB8UdwJMm2AwZmSHpump",
+  "link": "https://solscan.io/tx/2ByDC4RJhUmDwAcunTM1S3UzzcYDAor1Ck8niiCxJY8oVAKsbMyXKCZbdFH7M5ATvrPBGJt5DXCVuT7bwZXiHxa5",
+  "size_sol": 0.73,
+  "size_usd": 0.0
+ },
+ {
+  "id": "w:3k65gYPSKzALQRbJSsP7aV4mHN4fuHcrZRaMq6PiipQXy7R1ybbjScsUyp5cnmDF9tsFMSmNKHvaTR2wmNoaWPwM:F2ZgkMDvCKhpxwLciMaVCVjXuB8UdwJMm2AwZmSHpump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792946602,
+  "address": "F2ZgkMDvCKhpxwLciMaVCVjXuB8UdwJMm2AwZmSHpump",
+  "link": "https://solscan.io/tx/3k65gYPSKzALQRbJSsP7aV4mHN4fuHcrZRaMq6PiipQXy7R1ybbjScsUyp5cnmDF9tsFMSmNKHvaTR2wmNoaWPwM",
+  "size_sol": 2.1173,
+  "size_usd": 0.0
+ },
+ {
+  "id": "w:2EHiF59tcc2VJkbqzm2M9n7Yd5JjUTFeyZ812NNnuR9CsfajsGsaiXT79wKmLGxxxH6VgrSQp9g9Z5YhzvHRqemW:45vp1uNLV6HZp4SAKjs6PRGw3otyp64ymiuDPCoWpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792946632,
+  "address": "45vp1uNLV6HZp4SAKjs6PRGw3otyp64ymiuDPCoWpump",
+  "link": "https://solscan.io/tx/2EHiF59tcc2VJkbqzm2M9n7Yd5JjUTFeyZ812NNnuR9CsfajsGsaiXT79wKmLGxxxH6VgrSQp9g9Z5YhzvHRqemW",
+  "size_sol": 1.0549,
+  "size_usd": 0,
+  "token": "45vp1uNLV6HZp4SAKjs6PRGw3otyp64ymiuDPCoWpump",
+  "symbol": "GOONER",
+  "r": {
+   "entry": 2.9630267179540307e-06
+  }
+ },
+ {
+  "id": "w:2dQ3dFjbxFxtwhhiswdvpqoVytDpa7yCZ2exRUqufigPZcSXytpKxvPnctJM9Nw5BmNp8oYmJYo93pJUT8zMBQRp:45vp1uNLV6HZp4SAKjs6PRGw3otyp64ymiuDPCoWpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792946637,
+  "address": "45vp1uNLV6HZp4SAKjs6PRGw3otyp64ymiuDPCoWpump",
+  "link": "https://solscan.io/tx/2dQ3dFjbxFxtwhhiswdvpqoVytDpa7yCZ2exRUqufigPZcSXytpKxvPnctJM9Nw5BmNp8oYmJYo93pJUT8zMBQRp",
+  "size_sol": 0.222,
+  "size_usd": 0,
+  "token": "45vp1uNLV6HZp4SAKjs6PRGw3otyp64ymiuDPCoWpump",
+  "symbol": "GOONER",
+  "r": {
+   "entry": 2.9630267179540307e-06
+  }
+ },
+ {
+  "id": "w:5FnSb5FRh47zEVFAL631ZwpFRWMqkdKZ9LNyFvr9jb5A7ut7wVzakJrQwpbEZKB3ioi8X1ByfS735yS4rX4kdk8r:45vp1uNLV6HZp4SAKjs6PRGw3otyp64ymiuDPCoWpump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792946648,
+  "address": "45vp1uNLV6HZp4SAKjs6PRGw3otyp64ymiuDPCoWpump",
+  "link": "https://solscan.io/tx/5FnSb5FRh47zEVFAL631ZwpFRWMqkdKZ9LNyFvr9jb5A7ut7wVzakJrQwpbEZKB3ioi8X1ByfS735yS4rX4kdk8r",
+  "size_sol": 1.409,
+  "size_usd": 0
+ },
+ {
+  "id": "w:34Fo62ge6S3XX719hpjoJ2F2SLSHMTDqqSiFBHJM1dRwK8gj9qkUbKkzWHFEsk1ZPEceiLimr4Wx63uKPyKk8EEu:FgPfPLDku2ZFwA5hNrtnTjjfRVAxcb3AzRVc6CBGaiZp",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792947022,
+  "address": "FgPfPLDku2ZFwA5hNrtnTjjfRVAxcb3AzRVc6CBGaiZp",
+  "link": "https://solscan.io/tx/34Fo62ge6S3XX719hpjoJ2F2SLSHMTDqqSiFBHJM1dRwK8gj9qkUbKkzWHFEsk1ZPEceiLimr4Wx63uKPyKk8EEu",
+  "size_sol": 0.9215,
+  "size_usd": 0,
+  "token": "FgPfPLDku2ZFwA5hNrtnTjjfRVAxcb3AzRVc6CBGaiZp",
+  "symbol": "STRENGTH",
+  "r": {
+   "entry": 2.8390535963388715e-06
+  }
+ },
+ {
+  "id": "w:dQ5bBWzvG44W19B9xTi4nAxr1u27BBgpqBz6hPiFbGFWiQCkTewHPYFd5kbgp8o1TEudw2HTug1K1naLH882PVZ:FgPfPLDku2ZFwA5hNrtnTjjfRVAxcb3AzRVc6CBGaiZp",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792947025,
+  "address": "FgPfPLDku2ZFwA5hNrtnTjjfRVAxcb3AzRVc6CBGaiZp",
+  "link": "https://solscan.io/tx/dQ5bBWzvG44W19B9xTi4nAxr1u27BBgpqBz6hPiFbGFWiQCkTewHPYFd5kbgp8o1TEudw2HTug1K1naLH882PVZ",
+  "size_sol": 0.1192,
+  "size_usd": 0,
+  "token": "FgPfPLDku2ZFwA5hNrtnTjjfRVAxcb3AzRVc6CBGaiZp",
+  "symbol": "STRENGTH",
+  "r": {
+   "entry": 2.8390535963388715e-06
+  }
+ },
+ {
+  "id": "w:3FHdbZNKsjUDKQ8GFVHyN2EJJnZJaB8TvEAgBzGXCboAxTZioTC1A6AzyDQnhRPQeK66rjRTrUUXxtdRdsq5pntF:FgPfPLDku2ZFwA5hNrtnTjjfRVAxcb3AzRVc6CBGaiZp",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792947027,
+  "address": "FgPfPLDku2ZFwA5hNrtnTjjfRVAxcb3AzRVc6CBGaiZp",
+  "link": "https://solscan.io/tx/3FHdbZNKsjUDKQ8GFVHyN2EJJnZJaB8TvEAgBzGXCboAxTZioTC1A6AzyDQnhRPQeK66rjRTrUUXxtdRdsq5pntF",
+  "size_sol": 1.1185,
+  "size_usd": 0
+ },
+ {
+  "id": "w:5e8uFQdfZkK5MUkkYpeVNftpA9TRrpbkWG5z4HdTXii9wUocRywA15nT9vQsWaCCg41sW9oQvLJSaKfTQo7oQvsE:3G8K3ckZgHYDZ3jPz5oaoJvibydATse3eQMdX5KFpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792947113,
+  "address": "3G8K3ckZgHYDZ3jPz5oaoJvibydATse3eQMdX5KFpump",
+  "link": "https://solscan.io/tx/5e8uFQdfZkK5MUkkYpeVNftpA9TRrpbkWG5z4HdTXii9wUocRywA15nT9vQsWaCCg41sW9oQvLJSaKfTQo7oQvsE",
+  "size_sol": 1.925,
+  "size_usd": 0,
+  "token": "3G8K3ckZgHYDZ3jPz5oaoJvibydATse3eQMdX5KFpump",
+  "symbol": "Hijabies",
+  "r": {
+   "entry": 2.847041286476429e-06
+  }
+ },
+ {
+  "id": "w:4hiiuQmAYJrZD4LFrokzSfiKeXHxTvZxzrkZPnq7psy4sedcLnzLVhidLz8rPKQzva3ZW8wig2DE57ifp1hRpktU:3G8K3ckZgHYDZ3jPz5oaoJvibydATse3eQMdX5KFpump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792947127,
+  "address": "3G8K3ckZgHYDZ3jPz5oaoJvibydATse3eQMdX5KFpump",
+  "link": "https://solscan.io/tx/4hiiuQmAYJrZD4LFrokzSfiKeXHxTvZxzrkZPnq7psy4sedcLnzLVhidLz8rPKQzva3ZW8wig2DE57ifp1hRpktU",
+  "size_sol": 1.2238,
+  "size_usd": 0
+ },
+ {
+  "id": "w:3SFAxB7Skbryj1cMxsb4BLDYXdxdwqj1krqgcTjq7gBuCEmZaiFgLhATdbn2zZeTnPu2e6KiZscGCWqntaH4G9MX:4KxLjiNzxin7dKZiM65zWLytZw3Z5aBpq63FGe63pump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792948027,
+  "address": "4KxLjiNzxin7dKZiM65zWLytZw3Z5aBpq63FGe63pump",
+  "link": "https://solscan.io/tx/3SFAxB7Skbryj1cMxsb4BLDYXdxdwqj1krqgcTjq7gBuCEmZaiFgLhATdbn2zZeTnPu2e6KiZscGCWqntaH4G9MX",
+  "size_sol": 0.9931,
+  "size_usd": 0,
+  "token": "4KxLjiNzxin7dKZiM65zWLytZw3Z5aBpq63FGe63pump",
+  "symbol": "PMUP",
+  "r": {
+   "entry": 3.1595096799538117e-06
+  }
+ },
+ {
+  "id": "w:2MqUrR2cHnkxWsChBhsmdAiDnegQpB2jXs8WYjS1J3vZGcu95jAG9DGyRBQ4ctQuYnghbuSPdrHFhzg9iUQyT6AV:4KxLjiNzxin7dKZiM65zWLytZw3Z5aBpq63FGe63pump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792948060,
+  "address": "4KxLjiNzxin7dKZiM65zWLytZw3Z5aBpq63FGe63pump",
+  "link": "https://solscan.io/tx/2MqUrR2cHnkxWsChBhsmdAiDnegQpB2jXs8WYjS1J3vZGcu95jAG9DGyRBQ4ctQuYnghbuSPdrHFhzg9iUQyT6AV",
+  "size_sol": 0.222,
+  "size_usd": 0,
+  "token": "4KxLjiNzxin7dKZiM65zWLytZw3Z5aBpq63FGe63pump",
+  "symbol": "PMUP",
+  "r": {
+   "entry": 3.1595096799538117e-06
+  }
+ },
+ {
+  "id": "w:4yoYmjMbHTPQ4bNHCdzKmTkriB5TpwNC5LJ8tLzeWjehUx1xAWYL36uHTAMt7mrVNGnkyGj4zJhhvXfgRw2NppjW:4KxLjiNzxin7dKZiM65zWLytZw3Z5aBpq63FGe63pump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792948060,
+  "address": "4KxLjiNzxin7dKZiM65zWLytZw3Z5aBpq63FGe63pump",
+  "link": "https://solscan.io/tx/4yoYmjMbHTPQ4bNHCdzKmTkriB5TpwNC5LJ8tLzeWjehUx1xAWYL36uHTAMt7mrVNGnkyGj4zJhhvXfgRw2NppjW",
+  "size_sol": 0.222,
+  "size_usd": 0,
+  "token": "4KxLjiNzxin7dKZiM65zWLytZw3Z5aBpq63FGe63pump",
+  "symbol": "PMUP",
+  "r": {
+   "entry": 3.1595096799538117e-06
+  }
+ },
+ {
+  "id": "w:5MUJ18R8VMfyxBF8AYNv26jAjCG1X7437HxUVCv5KDGYeCRd1E2j57R2iG9dugjYTLEwZdj4xS5wkm6bF5Q4U4DV:4KxLjiNzxin7dKZiM65zWLytZw3Z5aBpq63FGe63pump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792948068,
+  "address": "4KxLjiNzxin7dKZiM65zWLytZw3Z5aBpq63FGe63pump",
+  "link": "https://solscan.io/tx/5MUJ18R8VMfyxBF8AYNv26jAjCG1X7437HxUVCv5KDGYeCRd1E2j57R2iG9dugjYTLEwZdj4xS5wkm6bF5Q4U4DV",
+  "size_sol": 1.3133,
+  "size_usd": 0
+ },
+ {
+  "id": "w:2XqLQNZUHnbeauoNqaRHsJmLrDz2Q9DTrsbMDwu521nMDisSP4ac1vbWCDZGf5r2L72bwYsHkPgS12Xiy4XZcNhD:3YeXjSegBAWGKnhB8N2GyQtqT3GfbJD5FMfwtM7Xvz6p",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792948114,
+  "address": "3YeXjSegBAWGKnhB8N2GyQtqT3GfbJD5FMfwtM7Xvz6p",
+  "link": "https://solscan.io/tx/2XqLQNZUHnbeauoNqaRHsJmLrDz2Q9DTrsbMDwu521nMDisSP4ac1vbWCDZGf5r2L72bwYsHkPgS12Xiy4XZcNhD",
+  "size_sol": 2.3126,
+  "size_usd": 0,
+  "token": "3YeXjSegBAWGKnhB8N2GyQtqT3GfbJD5FMfwtM7Xvz6p",
+  "symbol": "MEMEMAN",
+  "r": {
+   "entry": 3.020361708681604e-06
+  }
+ },
+ {
+  "id": "w:2cez86zQutb4utx45RV1ZNH4QXYX7RJnqdrLJG7muSnSGgYEmPpDpokR8F9Xo7m7ELGPQnQNfmeuJ1Q2gUx2UPcL:3YeXjSegBAWGKnhB8N2GyQtqT3GfbJD5FMfwtM7Xvz6p",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792948122,
+  "address": "3YeXjSegBAWGKnhB8N2GyQtqT3GfbJD5FMfwtM7Xvz6p",
+  "link": "https://solscan.io/tx/2cez86zQutb4utx45RV1ZNH4QXYX7RJnqdrLJG7muSnSGgYEmPpDpokR8F9Xo7m7ELGPQnQNfmeuJ1Q2gUx2UPcL",
+  "size_sol": 2.665,
+  "size_usd": 0
+ },
+ {
+  "id": "w:3xDLyDo96x96x4x6H3v2NaYN8bR3S7prNWekJUEdtJWu6c6zEWg8mnr17UgevKZNP9VR1wLXa8QduTJkPyVSdtEy:2zSqWkLhDrM5gLJsA9jF68L1GPbpw1zM3ZbUrVHiFDUH",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792948392,
+  "address": "2zSqWkLhDrM5gLJsA9jF68L1GPbpw1zM3ZbUrVHiFDUH",
+  "link": "https://solscan.io/tx/3xDLyDo96x96x4x6H3v2NaYN8bR3S7prNWekJUEdtJWu6c6zEWg8mnr17UgevKZNP9VR1wLXa8QduTJkPyVSdtEy",
+  "size_sol": 1.2358,
+  "size_usd": 0,
+  "token": "2zSqWkLhDrM5gLJsA9jF68L1GPbpw1zM3ZbUrVHiFDUH",
+  "symbol": "SOURCE",
+  "r": {
+   "entry": 3.4675563594164046e-06
+  }
+ },
+ {
+  "id": "w:5Ewtkkao3rVBMeRqptWWocpnrdzdhD9mYZmxjfjR8heABJ4VeYoZmjKq9iuASuQrVAC1qp984YA8my1uDtr94Faz:2zSqWkLhDrM5gLJsA9jF68L1GPbpw1zM3ZbUrVHiFDUH",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792948398,
+  "address": "2zSqWkLhDrM5gLJsA9jF68L1GPbpw1zM3ZbUrVHiFDUH",
+  "link": "https://solscan.io/tx/5Ewtkkao3rVBMeRqptWWocpnrdzdhD9mYZmxjfjR8heABJ4VeYoZmjKq9iuASuQrVAC1qp984YA8my1uDtr94Faz",
+  "size_sol": 0.2146,
+  "size_usd": 0
+ },
+ {
+  "id": "w:3v1xjYeoGnJxkQUV6pc5gs7bVA2it9gVMPVywb9LzeBmS29AWXArAKTqP9QZkextc5zph2LjYVonHYPG2QyQ3AWo:2zSqWkLhDrM5gLJsA9jF68L1GPbpw1zM3ZbUrVHiFDUH",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792948398,
+  "address": "2zSqWkLhDrM5gLJsA9jF68L1GPbpw1zM3ZbUrVHiFDUH",
+  "link": "https://solscan.io/tx/3v1xjYeoGnJxkQUV6pc5gs7bVA2it9gVMPVywb9LzeBmS29AWXArAKTqP9QZkextc5zph2LjYVonHYPG2QyQ3AWo",
+  "size_sol": 0.6385,
+  "size_usd": 0
+ },
+ {
+  "id": "w:4pbFVaa5MnPjm828iiASTGZ5oyWxcLJqxTYjXe5CjWKVJGXXyMvvR2meTGB2mrvKiMMtqxrbWzBHUHEhTkAYaaX:Acbvre8BgxP8mcqCNqhPMJ4n88Wz6bdVAFo5h9ZPpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792948672,
+  "address": "Acbvre8BgxP8mcqCNqhPMJ4n88Wz6bdVAFo5h9ZPpump",
+  "link": "https://solscan.io/tx/4pbFVaa5MnPjm828iiASTGZ5oyWxcLJqxTYjXe5CjWKVJGXXyMvvR2meTGB2mrvKiMMtqxrbWzBHUHEhTkAYaaX",
+  "size_sol": 0.9964,
+  "size_usd": -0.0,
+  "token": "Acbvre8BgxP8mcqCNqhPMJ4n88Wz6bdVAFo5h9ZPpump",
+  "symbol": "HOME",
+  "r": {
+   "entry": 1.111919154345707e-05
+  }
+ },
+ {
+  "id": "w:4hEPr86FP5Ac1EVAgVsfinr5RK4ijMMw6td57rDeczncrNo2pxA8A8C8vsLzFwv1GH8z2o3rcePNg86isczB2VNs:Acbvre8BgxP8mcqCNqhPMJ4n88Wz6bdVAFo5h9ZPpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792948687,
+  "address": "Acbvre8BgxP8mcqCNqhPMJ4n88Wz6bdVAFo5h9ZPpump",
+  "link": "https://solscan.io/tx/4hEPr86FP5Ac1EVAgVsfinr5RK4ijMMw6td57rDeczncrNo2pxA8A8C8vsLzFwv1GH8z2o3rcePNg86isczB2VNs",
+  "size_sol": 0.222,
+  "size_usd": -0.0,
+  "token": "Acbvre8BgxP8mcqCNqhPMJ4n88Wz6bdVAFo5h9ZPpump",
+  "symbol": "HOME",
+  "r": {
+   "entry": 1.111919154345707e-05
+  }
+ },
+ {
+  "id": "w:2HsJ77GEWGf1sKqdBTbVAP1eMeCNeqAYPt2kRCU5TXWfD7S55GsJCmxZsAgW7VxTMp1pbXfSu7ToR2zF5nMvN6qb:Acbvre8BgxP8mcqCNqhPMJ4n88Wz6bdVAFo5h9ZPpump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792948693,
+  "address": "Acbvre8BgxP8mcqCNqhPMJ4n88Wz6bdVAFo5h9ZPpump",
+  "link": "https://solscan.io/tx/2HsJ77GEWGf1sKqdBTbVAP1eMeCNeqAYPt2kRCU5TXWfD7S55GsJCmxZsAgW7VxTMp1pbXfSu7ToR2zF5nMvN6qb",
+  "size_sol": 1.1175,
+  "size_usd": 0.0
+ },
+ {
+  "id": "w:4obiRWaGTxLU3rV99Zb8Qn2UNcvZtrKHmvZiWQZV98t9KPzQhibj8PPGvJTxMPsTCYmnCEBMAAPh3crRaz9ZcN4q:DXh3KHy5XDVz2kwM82eLnSMrrPRrFaiVguoVeQkcGAo8",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792949066,
+  "address": "DXh3KHy5XDVz2kwM82eLnSMrrPRrFaiVguoVeQkcGAo8",
+  "link": "https://solscan.io/tx/4obiRWaGTxLU3rV99Zb8Qn2UNcvZtrKHmvZiWQZV98t9KPzQhibj8PPGvJTxMPsTCYmnCEBMAAPh3crRaz9ZcN4q",
+  "size_sol": 0.2235,
+  "size_usd": 0,
+  "token": "DXh3KHy5XDVz2kwM82eLnSMrrPRrFaiVguoVeQkcGAo8",
+  "symbol": "CLICKY",
+  "r": {
+   "entry": 7.061846245909305e-06
+  }
+ },
+ {
+  "id": "w:384qrZeDadrELFyRwBiR3ZB7CE1TXnSrFMtKdE7AsB9K2b5NbWufrWhdissSZDzU9MxAnvQZrLwY96CbuzYogtZC:DXh3KHy5XDVz2kwM82eLnSMrrPRrFaiVguoVeQkcGAo8",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792949067,
+  "address": "DXh3KHy5XDVz2kwM82eLnSMrrPRrFaiVguoVeQkcGAo8",
+  "link": "https://solscan.io/tx/384qrZeDadrELFyRwBiR3ZB7CE1TXnSrFMtKdE7AsB9K2b5NbWufrWhdissSZDzU9MxAnvQZrLwY96CbuzYogtZC",
+  "size_sol": 0.222,
+  "size_usd": 0,
+  "token": "DXh3KHy5XDVz2kwM82eLnSMrrPRrFaiVguoVeQkcGAo8",
+  "symbol": "CLICKY",
+  "r": {
+   "entry": 7.061846245909305e-06
+  }
+ },
+ {
+  "id": "w:4PArBJb6gmYBNCkt3MJAwZPwLMK8ovhTpYryteuzcRXHm2eRDejXAZkDMAEsds9nDkpcN3GRniGc96BPM2fvWXkt:DXh3KHy5XDVz2kwM82eLnSMrrPRrFaiVguoVeQkcGAo8",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792949072,
+  "address": "DXh3KHy5XDVz2kwM82eLnSMrrPRrFaiVguoVeQkcGAo8",
+  "link": "https://solscan.io/tx/4PArBJb6gmYBNCkt3MJAwZPwLMK8ovhTpYryteuzcRXHm2eRDejXAZkDMAEsds9nDkpcN3GRniGc96BPM2fvWXkt",
+  "size_sol": 0.4983,
+  "size_usd": 0
+ },
+ {
+  "id": "w:ruEpggFBzT2g2fF7FrWGRHC8TnosnryBodbqvk4QZgLuoxBi16YjQapyA6NUyZcKQCanR12yQh2hGBtLPHPZDc8:DKrXVcGVznerfrHoQB7csFNfwMMrhgivYMr99ttbpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792949335,
+  "address": "DKrXVcGVznerfrHoQB7csFNfwMMrhgivYMr99ttbpump",
+  "link": "https://solscan.io/tx/ruEpggFBzT2g2fF7FrWGRHC8TnosnryBodbqvk4QZgLuoxBi16YjQapyA6NUyZcKQCanR12yQh2hGBtLPHPZDc8",
+  "size_sol": 2.3205,
+  "size_usd": 0,
+  "token": "DKrXVcGVznerfrHoQB7csFNfwMMrhgivYMr99ttbpump",
+  "symbol": "BEER",
+  "r": {}
+ },
+ {
+  "id": "w:4kwByKsQ7Gc72KQkMWLp699h27WB7HVkNwRNxBNsxftzRwkkMBjbNsSFtLd3fFgNXcFXDfgVMKYBoNA4WnbeRCeD:2jnwYr4RNeBX7gNYbCYMdXJ5Gdmg634GriDmo2vkpump",
+  "kind": "buy",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792949354,
+  "address": "2jnwYr4RNeBX7gNYbCYMdXJ5Gdmg634GriDmo2vkpump",
+  "link": "https://solscan.io/tx/4kwByKsQ7Gc72KQkMWLp699h27WB7HVkNwRNxBNsxftzRwkkMBjbNsSFtLd3fFgNXcFXDfgVMKYBoNA4WnbeRCeD",
+  "size_sol": 1.9251,
+  "size_usd": -0.0
+ },
+ {
+  "id": "w:4BAiasJbWw8mp8UpJYVQZKptUdqZbi9652SbfXicXFDSXzx9DJnfnegTg4abSUigQdJrCp5REQjfrcBU6UkabL9L:2jnwYr4RNeBX7gNYbCYMdXJ5Gdmg634GriDmo2vkpump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792949357,
+  "address": "2jnwYr4RNeBX7gNYbCYMdXJ5Gdmg634GriDmo2vkpump",
+  "link": "https://solscan.io/tx/4BAiasJbWw8mp8UpJYVQZKptUdqZbi9652SbfXicXFDSXzx9DJnfnegTg4abSUigQdJrCp5REQjfrcBU6UkabL9L",
+  "size_sol": 0.2667,
+  "size_usd": 0.0
+ },
+ {
+  "id": "w:2Qu3UmNAzopHeb9UPP9ugL1mKwVvA4KgyrH99vkwV7PpML6RQvJyMyweTYq7cTGyoPchrfEj17KPcqKvcEWHaNmT:2jnwYr4RNeBX7gNYbCYMdXJ5Gdmg634GriDmo2vkpump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792949359,
+  "address": "2jnwYr4RNeBX7gNYbCYMdXJ5Gdmg634GriDmo2vkpump",
+  "link": "https://solscan.io/tx/2Qu3UmNAzopHeb9UPP9ugL1mKwVvA4KgyrH99vkwV7PpML6RQvJyMyweTYq7cTGyoPchrfEj17KPcqKvcEWHaNmT",
+  "size_sol": 0.7351,
+  "size_usd": 0.0
+ },
+ {
+  "id": "w:2J4bx1kKzaa5tYmmi6HmbJ8n5ZtFSd7o5nBtZfK9EPbQ4DL9DSXGEo7digjVRxpA2gHg9KGjA8iFjigNjnEtyaEc:DKrXVcGVznerfrHoQB7csFNfwMMrhgivYMr99ttbpump",
+  "kind": "sell",
+  "person": "KOREAN",
+  "source": "6KR7…NeGT",
+  "wallet": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+  "ts": 1792949362,
+  "address": "DKrXVcGVznerfrHoQB7csFNfwMMrhgivYMr99ttbpump",
+  "link": "https://solscan.io/tx/2J4bx1kKzaa5tYmmi6HmbJ8n5ZtFSd7o5nBtZfK9EPbQ4DL9DSXGEo7digjVRxpA2gHg9KGjA8iFjigNjnEtyaEc",
+  "size_sol": 1.7982,
+  "size_usd": 0
  }
 ]
