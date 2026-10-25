@@ -1,0 +1,52 @@
+{
+ "generated": "2026-10-25T03:47:53Z",
+ "persons": [
+  {
+   "name": "サンプル（書き換えてください）",
+   "telegram": [
+    "example_channel"
+   ],
+   "wallets": [],
+   "posts": {
+    "count": 0,
+    "evaluated": 0,
+    "n24": 0,
+    "n7": 0,
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null,
+    "win24": null,
+    "win7": null
+   },
+   "buys": {
+    "count": 0,
+    "evaluated": 0,
+    "n24": 0,
+    "n7": 0,
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null,
+    "win24": null,
+    "win7": null
+   },
+   "pre_buy_rate": null,
+   "sold_after_rate": null,
+   "median_hold_h": null,
+   "score": null,
+   "score_basis": null,
+   "badges": [
+    "データ不足"
+   ],
+   "last_seen": null
+  }
+ ],
+ "recent": [],
+ "totals": {
+  "posts": 0,
+  "trades": 0
+ }
+}

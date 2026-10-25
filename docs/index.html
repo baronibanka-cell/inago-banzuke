@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>イナゴ番付</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Zen+Kaku+Gothic+New:wght@400;500;700&family=JetBrains+Mono:wght@500;700&display=swap">
+<style>
+/* Layout: one narrow column, ranking cards then a time-ordered log. */
+:root {
+  --bg: #e9edf1; --panel: #f7f9fb; --ink: #15212d; --muted: #5b6876; --line: #cfd7df;
+  --accent: #2c4f86; --up: #17805a; --down: #c03a3a; --warn-bg: #fbecd9; --warn: #8a4b0f;
+  --chip: #dde4ec;
+  --display: "Dela Gothic One", "Hiragino Kaku Gothic StdN", sans-serif;
+  --body: "Zen Kaku Gothic New", "Hiragino Sans", "Noto Sans JP", system-ui, sans-serif;
+  --mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0f151c; --panel: #172029; --ink: #e5ebf1; --muted: #93a1af; --line: #2a3643;
+  --accent: #8fb0e6; --up: #4cc596; --down: #f07a74; --warn-bg: #3a2a17; --warn: #f2bb7b;
+  --chip: #23303c; color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #0f151c; --panel: #172029; --ink: #e5ebf1; --muted: #93a1af; --line: #2a3643;
+  --accent: #8fb0e6; --up: #4cc596; --down: #f07a74; --warn-bg: #3a2a17; --warn: #f2bb7b;
+  --chip: #23303c; color-scheme: dark; }
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.55;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+main { max-width: 640px; margin: 0 auto; padding-block: 20px 48px; display: grid; gap: 18px; }
+header h1 { font-family: var(--display); font-weight: 400; font-size: 34px; letter-spacing: .02em; margin: 0; line-height: 1.1; }
+header p { margin: 6px 0 0; color: var(--muted); font-size: 13px; }
+.num { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+.up { color: var(--up); } .down { color: var(--down); } .na { color: var(--muted); }
+nav { display: flex; gap: 6px; background: var(--chip); padding: 4px; border-radius: 10px; }
+nav button { flex: 1; border: 0; background: transparent; color: var(--muted); font: 700 14px var(--body);
+  padding: 8px; border-radius: 7px; cursor: pointer; }
+nav button[aria-selected="true"] { background: var(--panel); color: var(--ink); box-shadow: 0 1px 2px rgba(0,0,0,.08); }
+nav button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.list { display: grid; gap: 10px; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px; display: grid; gap: 10px; }
+.top { display: grid; grid-template-columns: 34px 1fr auto; gap: 10px; align-items: start; }
+.rank { font-family: var(--display); font-size: 22px; color: var(--accent); line-height: 1.2; }
+.who { min-width: 0; }
+.who b { font-size: 16px; display: block; overflow-wrap: anywhere; }
+.who small { color: var(--muted); font-size: 12px; overflow-wrap: anywhere; }
+.score { text-align: right; }
+.score .big { font-size: 20px; font-weight: 700; display: block; line-height: 1.2; }
+.score small { color: var(--muted); font-size: 11px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { font-size: 12px; font-weight: 700; padding: 2px 8px; border-radius: 999px; background: var(--chip); color: var(--ink); }
+.chip.good { color: var(--up); } .chip.bad { color: var(--down); } .chip.warn { background: var(--warn-bg); color: var(--warn); }
+.grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; border-top: 1px solid var(--line); padding-top: 10px; }
+.grid div { display: grid; gap: 1px; }
+.grid dt { font-size: 11px; color: var(--muted); letter-spacing: .04em; }
+.grid dd { margin: 0; font-size: 14px; font-weight: 700; }
+.foot { font-size: 12px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 14px; }
+.ev { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; display: grid; gap: 6px; }
+.ev .row1 { display: flex; justify-content: space-between; gap: 8px; align-items: baseline; }
+.ev .sym { font-weight: 700; overflow-wrap: anywhere; }
+.ev .meta { font-size: 12px; color: var(--muted); }
+.ev .rets { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 13px; }
+.ev .rets span em { font-style: normal; color: var(--muted); font-size: 11px; margin-right: 3px; }
+a { color: var(--accent); }
+.note { font-size: 12.5px; color: var(--muted); background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; }
+.note h2 { font-size: 13px; margin: 0 0 6px; color: var(--ink); }
+.note ul { margin: 0; padding-left: 1.2em; }
+.empty { color: var(--muted); text-align: center; padding: 28px 8px; }
+.demo { background: var(--warn-bg); color: var(--warn); font-size: 12.5px; padding: 8px 12px; border-radius: 8px; font-weight: 700; }
+@media (max-width: 380px) { .grid { grid-template-columns: repeat(2, 1fr); row-gap: 8px; } }
+@media (prefers-reduced-motion: no-preference) { nav button { transition: background .15s; } }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>イナゴ番付</h1>
+    <p id="meta">読み込み中…</p>
+  </header>
+  <div id="demo" class="demo" hidden>これはサンプルデータです。実際の監視結果ではありません。</div>
+  <nav role="tablist">
+    <button id="tab-rank" role="tab" aria-selected="true">ランキング</button>
+    <button id="tab-log" role="tab" aria-selected="false">最近の動き</button>
+  </nav>
+  <section id="rank" class="list"></section>
+  <section id="log" class="list" hidden></section>
+  <aside class="note">
+    <h2>数字の見方</h2>
+    <ul>
+      <li>起点は「投稿(または本人の購入)から5分以内の価格」。後から乗った人が実際につかめた値段に近づけています。</li>
+      <li>1時間・24時間・7日は、その時点の価格の変化率の中央値です。最高値は24時間以内の一番高い瞬間。</li>
+      <li>並び順は7日後の中央値(3件以上あれば)、なければ24時間後の中央値です。</li>
+      <li>「投稿前に購入」は投稿前72時間以内、「投稿後に売却」は投稿後48時間以内の本人ウォレットの取引です。</li>
+      <li>過去の成績は将来の値動きを保証しません。</li>
+    </ul>
+  </aside>
+</main>
+<script>
+(function () {
+  const $ = (id) => document.getElementById(id);
+  const pct = (x) => {
+    if (x === null || x === undefined) return '<span class="na">—</span>';
+    const v = x * 100, cls = v > 0 ? 'up' : v < 0 ? 'down' : '';
+    const s = (v > 0 ? '+' : v < 0 ? '−' : '') + Math.abs(v).toFixed(Math.abs(v) >= 100 ? 0 : 1) + '%';
+    return '<span class="num ' + cls + '">' + s + '</span>';
+  };
+  const rate = (x) => x === null || x === undefined ? '—' : Math.round(x * 100) + '%';
+  const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const jst = (t) => new Date((typeof t === 'number' ? t * 1000 : Date.parse(t)))
+    .toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo', month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+  const badgeClass = (b) => b === '持続型' ? 'good' : (b === '一瞬だけ型' || b === '24hで下落') ? 'bad'
+    : b.startsWith('投稿') ? 'warn' : '';
+
+  function personCard(p, i) {
+    const s = p.score_basis === '7日' || p.posts.n24 >= 3 || !p.buys.count ? p.posts : p.buys;
+    const basisLabel = s === p.posts ? '投稿' : '本人の購入';
+    const src = [...p.telegram.map((c) => '@' + c.replace(/^@/, '')), ...p.wallets.map((w) => w.slice(0, 4) + '…' + w.slice(-4))].join(' / ');
+    const wallet = p.sold_after_rate !== null && p.sold_after_rate !== undefined
+      ? '<span>投稿前に購入 ' + rate(p.pre_buy_rate) + '</span><span>投稿後に売却 ' + rate(p.sold_after_rate) + '</span>' : '';
+    const hold = p.median_hold_h !== null && p.median_hold_h !== undefined ? '<span>本人の保有 中央値 ' + p.median_hold_h + '時間</span>' : '';
+    return '<article class="card">' +
+      '<div class="top"><div class="rank">' + (p.score === null ? '–' : i + 1) + '</div>' +
+      '<div class="who"><b>' + esc(p.name) + '</b><small>' + esc(src) + '</small></div>' +
+      '<div class="score"><span class="big">' + pct(p.score) + '</span><small>' + (p.score_basis ? p.score_basis + '後 中央値' : '集計待ち') + '</small></div></div>' +
+      '<div class="chips">' + p.badges.map((b) => '<span class="chip ' + badgeClass(b) + '">' + esc(b) + '</span>').join('') + '</div>' +
+      '<dl class="grid">' +
+      '<div><dt>1時間</dt><dd>' + pct(s.h1) + '</dd></div>' +
+      '<div><dt>24時間</dt><dd>' + pct(s.h24) + '</dd></div>' +
+      '<div><dt>7日</dt><dd>' + pct(s.d7) + '</dd></div>' +
+      '<div><dt>最高値</dt><dd>' + pct(s.peak24) + '</dd></div></dl>' +
+      '<div class="foot"><span>' + basisLabel + ' ' + s.count + '件(評価済 ' + s.evaluated + ')</span>' +
+      '<span>7日勝率 ' + rate(s.win7) + '</span>' + wallet + hold + '</div></article>';
+  }
+
+  function eventRow(e) {
+    const kind = e.kind === 'post' ? '投稿' : '本人購入';
+    const sym = e.symbol ? '$' + e.symbol : e.token.slice(0, 6) + '…';
+    const flags = [];
+    if (e.pre_buy) flags.push('<span class="chip warn">投稿前に購入</span>');
+    if (e.sold_after) flags.push('<span class="chip warn">投稿後に売却</span>');
+    if (e.unknown) flags.push('<span class="chip">価格データなし</span>');
+    if (e.dead) flags.push('<span class="chip">取引なし</span>');
+    if (e.held_hours !== null && e.held_hours !== undefined) flags.push('<span class="chip">' + e.held_hours + '時間で売却</span>');
+    return '<article class="ev"><div class="row1"><span class="sym">' + esc(sym) + '</span>' +
+      '<span class="meta num">' + jst(e.ts) + '</span></div>' +
+      '<div class="meta">' + esc(e.person) + ' · ' + kind + ' · <a href="' + esc(e.link) + '" target="_blank" rel="noopener">' + esc(e.source) + '</a></div>' +
+      '<div class="rets"><span><em>1h</em>' + pct(e.ret.h1) + '</span><span><em>24h</em>' + pct(e.ret.h24) + '</span>' +
+      '<span><em>7d</em>' + pct(e.ret.d7) + '</span><span><em>最高</em>' + pct(e.ret.peak24) + '</span></div>' +
+      (flags.length ? '<div class="chips">' + flags.join('') + '</div>' : '') + '</article>';
+  }
+
+  function render(d) {
+    $('meta').textContent = '最終更新 ' + jst(d.generated) + ' · 投稿 ' + d.totals.posts + '件 · 取引 ' + d.totals.trades + '件';
+    $('rank').innerHTML = d.persons.length ? d.persons.map(personCard).join('')
+      : '<p class="empty">監視する人がまだいません。config.yaml に追加してください。</p>';
+    $('log').innerHTML = d.recent.length ? d.recent.map(eventRow).join('')
+      : '<p class="empty">まだ記録がありません。次の自動実行(15分ごと)をお待ちください。</p>';
+    if (d.demo) $('demo').hidden = false;
+  }
+
+  function show(tab) {
+    const isRank = tab === 'rank';
+    $('rank').hidden = !isRank; $('log').hidden = isRank;
+    $('tab-rank').setAttribute('aria-selected', isRank); $('tab-log').setAttribute('aria-selected', !isRank);
+  }
+  $('tab-rank').addEventListener('click', () => show('rank'));
+  $('tab-log').addEventListener('click', () => show('log'));
+
+  if (window.__DATA__) render(window.__DATA__);
+  else fetch('data.json?t=' + Date.now()).then((r) => r.json()).then(render)
+    .catch(() => { $('meta').textContent = 'データを読み込めませんでした。最初の自動実行が終わるまでお待ちください。'; });
+})();
+</script>
+</body>
+</html>

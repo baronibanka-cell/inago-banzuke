@@ -1,0 +1,22 @@
+# 監視する人のリスト
+# ・telegram: 公開チャンネルのID（t.me/xxxx の xxxx 部分）。非公開チャンネルは読めません
+# ・wallets : その人のSolanaウォレットアドレス（Kolscan、GMGN等で公開されているもの）
+# どちらか片方だけでもOKです。同じ人のチャンネルと財布を並べると
+# 「投稿前に買っていたか」「投稿後すぐ売ったか」も自動で判定します。
+
+people:
+  - name: サンプル（書き換えてください）
+    telegram:
+      - example_channel
+    wallets: []
+
+  # - name: 2人目
+  #   telegram:
+  #     - another_channel
+  #   wallets:
+  #     - ここにウォレットアドレス
+
+options:
+  telegram_backfill_pages: 5   # 初回にさかのぼるページ数（1ページ約20投稿）
+  wallet_backfill_tx: 60       # 初回にさかのぼる取引数
+  price_calls_per_run: 120     # 1回の実行で使う価格APIの回数（無料枠は毎分30回）
