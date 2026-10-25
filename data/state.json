@@ -19,8 +19,9 @@
    "symbol": "Morgano"
   },
   "EdF7CwYbtDj8T34PVDLhrgb84qk2gB5fAmdYrjnmpump": {
-   "checked": 1792904112,
-   "tries": 1
+   "token": "EdF7CwYbtDj8T34PVDLhrgb84qk2gB5fAmdYrjnmpump",
+   "pool": "HLXWUdtvWSrRGQvk1FqUESTK6eoaWwvJkzppAsHDPs9C",
+   "symbol": "Goofy"
   },
   "CQRai8AYpZyt2We1psVyJWSAeGkCnhaQRmKM2S74Td8": {
    "token": "CQRai8AYpZyt2We1psVyJWSAeGkCnhaQRmKM2S74Td8",
@@ -76,16 +77,56 @@
    "token": "AfrJ94Z9F93GYpU5uytkr3pgLrwv5XYqMSUUgyyipump",
    "pool": "Gz5GLcpWN9LyGQ9hrWbRBjpHXYMDKzkpnRZ498wwCMXR",
    "symbol": "Lovot"
+  },
+  "3BXBmXCnvqeYKQgWFZcGuoyyFUDw5hXpLFB7DxKdpump": {
+   "token": "3BXBmXCnvqeYKQgWFZcGuoyyFUDw5hXpLFB7DxKdpump",
+   "pool": "Eb3kw3mJeUpesy5S3sSG3nJd7vRpVvHmvFCdpj28Pfbe",
+   "symbol": "Pose"
+  },
+  "BrxfPFuhLto5zsQ2gatyuquz5trj83u254DhgYNApump": {
+   "token": "BrxfPFuhLto5zsQ2gatyuquz5trj83u254DhgYNApump",
+   "pool": "8gHvYK2ikp3X3eWaUPPMPzPupGt9ikPuJVEpbSfCEDtA",
+   "symbol": "TITOSHI"
+  },
+  "D5YTh38MjNKXx2MMo1YgZYvUxNBLzQkyrX5g2SqApump": {
+   "token": "D5YTh38MjNKXx2MMo1YgZYvUxNBLzQkyrX5g2SqApump",
+   "pool": "7wXVCHViMVWRWxudjNmQS8R91AL6vFukJDkEvcyrGJGn",
+   "symbol": "CRAP"
+  },
+  "3QyZw12symm7nAEp2ZEFoHsS2vKa3XJ8PLJ2h4Ecpump": {
+   "token": "3QyZw12symm7nAEp2ZEFoHsS2vKa3XJ8PLJ2h4Ecpump",
+   "pool": "2NZaERRgM2Kq7gvn1DHf3AHLrqwhAgjjdjCsurZzk64z",
+   "symbol": "3"
+  },
+  "Cm8BiQ3ULfc3D2wjCGGLF66Du1X2Y392Ly2ogGFHpump": {
+   "token": "Cm8BiQ3ULfc3D2wjCGGLF66Du1X2Y392Ly2ogGFHpump",
+   "pool": "9tyUECymkQLEE7LbXiX4eezuQiDifT1eDh1baAQDaQx3",
+   "symbol": "LIKE"
+  },
+  "DoJMpPbkesbpid5oN3uA8c3fuCbCXXzFPp4EX57spump": {
+   "token": "DoJMpPbkesbpid5oN3uA8c3fuCbCXXzFPp4EX57spump",
+   "pool": "5H78iJubadE2NowPfDid7qAXPrDF28iTEBs3QBWWc6Xu",
+   "symbol": "TAPCAT"
+  },
+  "3BHrYyj7dUoGDYNduqkLgGJtByT6PoTydrbNBk7Kpump": {
+   "token": "3BHrYyj7dUoGDYNduqkLgGJtByT6PoTydrbNBk7Kpump",
+   "pool": "s8DXbATpTKNeRJevGiVQXUxiwJ9kaf6Dn4qTgZtvqMt",
+   "symbol": "Europа"
+  },
+  "CXdx8XUqtgTDukPkvbhMizQyfggZDkZdgjSkyoCGpump": {
+   "token": "CXdx8XUqtgTDukPkvbhMizQyfggZDkZdgjSkyoCGpump",
+   "pool": "3s81vfa8UC7b4pshpcCmNcNH72uZJVC4bU32uPoHnPwk",
+   "symbol": "LTC"
   }
  },
  "wallets": {
-  "5YRgrP3mjGzrzirYYN5HAQH19cTYREYwGxW6XRJQUzij": "4NhMBr2xNqDckNh2NBrumAVv9dH6zHgHZCpsdZEPe5xB46SDZonmwMuKWcS3fwMzcQvrS5Do48NG4gdm56L2ift",
+  "5YRgrP3mjGzrzirYYN5HAQH19cTYREYwGxW6XRJQUzij": "2Kp2HoKEvN35SfYjaFkQErHQCuhTZFu35AoGRVz3kbaALsM41B9fgbCrEBj77H47M9fU1MMZFts6DPdfs9WVESai",
   "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o": "t1bcdcmhkJn7iJh2BB1CZepQky1NcWSPbomc2txQcGvDB5abKgbdvh7sWG6JrpSnomSPeEsAcAAeP8Ba9xy8saG",
   "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9": "4U7SMPV1GtVkxM5PoE32iv372Z1bTpPbBd45JeirWvinu8zc3HbnYB4vuwE2LZE8UzTmAN8s7zUu8VngB6bny15M",
   "4BdKaxN8G6ka4GYtQQWk4G4dZRUTX2vQH9GcXdBREFUk": "3R1fh5Qvw5G1eYc2gxRM5C6z15cpCCDF1cevKKLB4J6GdjHtho16DeNdej172YXwTQHqfLRhyeH34EDrxVkkNJnN",
-  "G3gZWqrYkNmYFKYCyfRCNtGuxdyuE2wiYKkZpiZn4WSS": "4NhuKWroR9onZvLjXgVhMbUFXB6hePnehwAPa9VtSjG61UGhcywXUkMfhkhj3sMkdLLCR6FAhr2WmHkcMSsz2xvJ",
-  "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx": "4RKt2mCa1vR7gV6PUnCKEwuWEzZwYx7nPRhaWPxgj8GwW6hJVUytZsSrTLCt8yriNZsbo3F5jvaaxFfr56CVS6Vq",
-  "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT": "3jrmgfBLFG6KqdeaeUp8xHJRAomZCQY3nRTKD1t9P9EWchxxQE6d3zgdB5Pkg7hpSREFbtqoFScE5kht52J9JhLG",
-  "7SDs3PjT2mswKQ7Zo4FTucn9gJdtuW4jaacPA65BseHS": "4XCEhV3yhLBr3jW1sxW237X1WCmJh1A2RYkS5TebyLkz4DYnUFkaGkecJ6qDxZtyXkQevfDdTSVKAA89ekMmjEEw"
+  "G3gZWqrYkNmYFKYCyfRCNtGuxdyuE2wiYKkZpiZn4WSS": "3SmFbgurykX1SH3s8MB1hc7xLzUp5p6GMiCgyzJyfCH1iXDudpaoKy75V5mHfBRor5MQToPNKEYBvvsidjGYhTQK",
+  "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx": "NoPtZKYYLXa2ugEWWYVYtm5NuTqH11X6fkEdvnDHEMufGXeDDKZiZjJrYT8SqU49roBFVSkFydyNTnbSSt1GPNq",
+  "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT": "5YiBnSFSLPiB5eozfwgrryZ82E9Zdfy9VcphE81Xk7CTCcYiavjWYm4zVQc6bo3uoFmdmoGzudHKvM2ANhumm2dR",
+  "7SDs3PjT2mswKQ7Zo4FTucn9gJdtuW4jaacPA65BseHS": "4rHzyCkiBjxhZjKU7uLdtGQszzoigUbtjSZHbkL8XeU3pKsVkeeH6UJKNedz6gNmSMd627cY2YZsv7wYJ4f4Awyp"
  }
 }
