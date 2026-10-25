@@ -2,11 +2,5 @@
  "telegram": {
   "example_channel": 10
  },
- "wallets": {
-  "5YRgrP3mjGzrzirYYN5HAQH19cTYREYwGxW6XRJQUzij": "2Spo4kvYRTbLcnDYfkGLBYXHMrBhJ5XyAeJGGtFEZzYkpeWsRHUR77VK5SbPy3n4aczF3r1oFq65RHR9f7wEYANZ",
-  "G3gZWqrYkNmYFKYCyfRCNtGuxdyuE2wiYKkZpiZn4WSS": "4KsT3EyttCsgN1X9Etan8A6AKXsn71zeYuLEJ6L7XhNYZwCS8pXKmYKAT3cKF9Vwye2zVt14hhxdGwJRHnWdZC4r",
-  "7SDs3PjT2mswKQ7Zo4FTucn9gJdtuW4jaacPA65BseHS": "2F2sguCGNTSxoLUWAySarqhRifWG4dnvsTq2y6T9anRosv2K9W9RZWZc7AxuTn9yz5z6vipjfyEUsKooV5zz7Yw",
-  "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx": "4HrxPrShPrxJh8D76eESncx4ZhuFwgWxZsKWqrZvHoaKPk1VVcsZpdufV4jJCYeyj3s3n2AbRNdD6NPifHEsW5HM"
- },
  "tokens": {}
 }

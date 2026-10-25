@@ -26,10 +26,12 @@ def rpc(method: str, params: list):
     gap = 0.5 if url == PUBLIC_RPC else 0.12
     res = http_post_json(url, {"jsonrpc": "2.0", "id": 1, "method": method, "params": params},
                          min_interval=gap)
-    if res is None or "error" in res:
-        if res:
-            log(f"  ! rpc {method}: {res['error'].get('message')}")
-        return None
+    if res is None:
+        return None  # network trouble or rate limit: try again next run
+    if "error" in res:
+        msg = str(res["error"].get("message", ""))[:160]
+        log(f"  ! rpc {method}: {msg}")
+        return {"__error__": msg}
     return res.get("result")
 
 
@@ -90,7 +92,7 @@ def collect(persons: list[dict], state: dict, backfill: int) -> list[dict]:
             if until:
                 opts["until"] = until
             sigs = rpc("getSignaturesForAddress", [wallet, opts])
-            if sigs is None:
+            if sigs is None or (isinstance(sigs, dict) and "__error__" in sigs):
                 log(f"  ! wallet {wallet[:6]}…: could not read history")
                 continue
             sigs = [s for s in sigs if s.get("err") is None]
@@ -98,10 +100,13 @@ def collect(persons: list[dict], state: dict, backfill: int) -> list[dict]:
             # oldest first so a partial run still leaves a correct cursor
             for s in reversed(sigs):
                 tx = rpc("getTransaction", [s["signature"], {
-                    "encoding": "jsonParsed", "maxSupportedTransactionVersion": 0}])
+                    "encoding": "jsonParsed", "maxSupportedTransactionVersion": 1}])
                 if tx is None:
-                    log(f"  ! wallet {wallet[:6]}…: stopped reading transactions (RPC refused)")
+                    log(f"  ! wallet {wallet[:6]}…: RPC busy, will continue next run")
                     break
+                if "__error__" in tx:  # this one transaction can't be read: skip it
+                    cursors[wallet] = s["signature"]
+                    continue
                 for leg in swaps_in_tx(tx, wallet):
                     events.append({
                         "id": f"w:{s['signature']}:{leg['mint']}",
