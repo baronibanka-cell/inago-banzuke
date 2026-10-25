@@ -100,6 +100,7 @@ def collect(persons: list[dict], state: dict, backfill: int) -> list[dict]:
                 tx = rpc("getTransaction", [s["signature"], {
                     "encoding": "jsonParsed", "maxSupportedTransactionVersion": 0}])
                 if tx is None:
+                    log(f"  ! wallet {wallet[:6]}…: stopped reading transactions (RPC refused)")
                     break
                 for leg in swaps_in_tx(tx, wallet):
                     events.append({

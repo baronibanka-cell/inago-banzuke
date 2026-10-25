@@ -57,12 +57,14 @@ def http_post_json(url: str, payload: dict, *, min_interval: float = 0.0, retrie
             time.sleep(2 * (attempt + 1))
             continue
         if r.status_code == 429 or r.status_code >= 500:
+            log(f"  ! {key}: HTTP {r.status_code} (retrying)")
             time.sleep(min(60, 5 * (attempt + 1)))
             continue
         if r.status_code != 200:
-            log(f"  ! {key}: HTTP {r.status_code}")
+            log(f"  ! {key}: HTTP {r.status_code} {r.text[:120]}")
             return None
         return r.json()
+    log(f"  ! {key}: gave up after {retries} tries")
     return None
 
 
@@ -92,7 +94,11 @@ def parse_iso(s: str) -> int:
     return int(datetime.fromisoformat(s.replace("Z", "+00:00")).timestamp())
 
 
+RUN_LOG: list[str] = []
+
+
 def log(msg: str) -> None:
+    RUN_LOG.append(msg)
     print(msg, flush=True)
 
 

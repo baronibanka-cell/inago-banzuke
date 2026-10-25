@@ -10,7 +10,7 @@ import argparse
 import yaml
 
 from . import prices, report, solana, telegram
-from .common import DATA_DIR, DOCS_DIR, ROOT, load_json, log, save_json
+from .common import DATA_DIR, DOCS_DIR, ROOT, RUN_LOG, load_json, log, save_json
 
 EVENTS = DATA_DIR / "events.json"
 STATE = DATA_DIR / "state.json"
@@ -60,6 +60,8 @@ def main() -> None:
     save_json(DOCS_DIR / "data.json", out)
     log(f"report: {len(out['persons'])} people, {out['totals']['posts']} posts, "
         f"{out['totals']['trades']} trades")
+    if not args.report:
+        (DATA_DIR / "last_run.log").write_text("\n".join(RUN_LOG) + "\n", encoding="utf-8")
 
 
 if __name__ == "__main__":
