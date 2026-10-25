@@ -211,16 +211,81 @@
    "token": "9UTExiraYUGZ1qyfA46gYLFRtYKwaYEFuCzfdUMPpump",
    "pool": "GFaUMymQcSAwztD7Q7HP2Sfu8EHALJ2iN7x3RLq6T9ys",
    "symbol": "RK"
+  },
+  "72UuvWnASEUdiMZkUbNLUwEGWjeDUCVoaaT8kKZSpump": {
+   "token": "72UuvWnASEUdiMZkUbNLUwEGWjeDUCVoaaT8kKZSpump",
+   "pool": "52N3VyYRp9t42MhEhd2atr5Uxb7PKDKezdMNaJFPQay5",
+   "symbol": "GADI"
+  },
+  "3JRmsC2RCq12EDdqvRLrDnrYvQQQfMCbumcejEvApump": {
+   "token": "3JRmsC2RCq12EDdqvRLrDnrYvQQQfMCbumcejEvApump",
+   "pool": "ArN3AxCX6ozSDzoRg1yoZiQ1TeJo5gjNGJs7zWCEnggU",
+   "symbol": "BEAR"
+  },
+  "83S8fHCV5XXrhER5RSWeW15YHaEMFFrE7Q8xGGKEpump": {
+   "token": "83S8fHCV5XXrhER5RSWeW15YHaEMFFrE7Q8xGGKEpump",
+   "pool": "GzWYLaAzH6NazbxeWwzR7aKZYmK2sSzxGR2jRZkQC53a",
+   "symbol": "ZIP-ZAP"
+  },
+  "EKeNQmShqL1yAxNkqk6JN8CQJCGDPKRy8MqZkmk6pump": {
+   "token": "EKeNQmShqL1yAxNkqk6JN8CQJCGDPKRy8MqZkmk6pump",
+   "pool": "6Xjmou6edSwGsjtDGdQtUi6W9cR4TfoSQKzYH3d6P8kd",
+   "symbol": "MEMESTOCK"
+  },
+  "C5mwEmnnJk7FCH5PWZecVzjiBce39R2b1RBW47ztChgL": {
+   "token": "C5mwEmnnJk7FCH5PWZecVzjiBce39R2b1RBW47ztChgL",
+   "pool": "5fbqL97cWd5hRppTS4KqZ7kneGmsFHbWWKFPBUwjnKAs",
+   "symbol": "BONK"
+  },
+  "H2xB3n9effR1zP21EZCxPTNitp9Bh1Z1rpuwAc4Upump": {
+   "token": "H2xB3n9effR1zP21EZCxPTNitp9Bh1Z1rpuwAc4Upump",
+   "pool": "14aGhs5Q11tPt2Yer2BgpXAE9w5AkU5Z6u6MioK5oX1W",
+   "symbol": "PUMP"
+  },
+  "xzbwAxmjtxsR36tF5s5bN3pjYdfhSRvMgZKZcu2byx3": {
+   "token": "xzbwAxmjtxsR36tF5s5bN3pjYdfhSRvMgZKZcu2byx3",
+   "pool": "Fj6jAKBih5e7La522HsD5QK6nreiM3LpHaKknjdWAC7u",
+   "symbol": "STONKER"
+  },
+  "3GyJAwbWSKiS44CZSuoKeTjYggVEJUZBM85c2yjRpump": {
+   "token": "3GyJAwbWSKiS44CZSuoKeTjYggVEJUZBM85c2yjRpump",
+   "pool": "5LSoR2CstriDinef165FfBDjrvjVP1vWHcBCd7zA2efo",
+   "symbol": "MAX"
+  },
+  "6Z4m67HB7Epztw9x7MDkcpVrVvs4AJoDswnjbZYazKzE": {
+   "token": "6Z4m67HB7Epztw9x7MDkcpVrVvs4AJoDswnjbZYazKzE",
+   "pool": "2BsAyrtWujNMEFN9S8jvAUvQWDqoVVWGcfQ9z2cWUVJ6",
+   "symbol": "AIRDROP"
+  },
+  "3GrSXwV4XYDz1BKUw24jXMDVLun5Cvggf6NxTb69pump": {
+   "token": "3GrSXwV4XYDz1BKUw24jXMDVLun5Cvggf6NxTb69pump",
+   "pool": "HM32Y6Y9PsWYgRb4Z7YoeAqozy3PB4HA83sePZtrRgnP",
+   "symbol": "ZARA"
+  },
+  "HZ4NiZnG43vgDj8PTkvePAuzJ3TcFDH5AMp1sMQgpump": {
+   "token": "HZ4NiZnG43vgDj8PTkvePAuzJ3TcFDH5AMp1sMQgpump",
+   "pool": "JCUsB5i8TebnjCazbwXFRp3v6dqeLXYBDSG1aX1rAcQq",
+   "symbol": "TORTA"
+  },
+  "UYdqDEE7Yvoo5Gr1KoNhNEDd7SQtFYieLC9E8ovm1R8": {
+   "token": "UYdqDEE7Yvoo5Gr1KoNhNEDd7SQtFYieLC9E8ovm1R8",
+   "pool": "Ehsx4jWv3CsQRhUfCQUjdHyVt1viwRubJPvrmsDswz7f",
+   "symbol": "TORTA"
+  },
+  "5ANeG7zkn8b8q57iZCoZHP25YeAvxKCAYQRjTnowbHKo": {
+   "token": "5ANeG7zkn8b8q57iZCoZHP25YeAvxKCAYQRjTnowbHKo",
+   "pool": "HKyQqnYK68d4D4ZPmV6NtJSvynhKHq4J85mCMBgbtad9",
+   "symbol": "PAD"
   }
  },
  "wallets": {
-  "5YRgrP3mjGzrzirYYN5HAQH19cTYREYwGxW6XRJQUzij": "2DLYGYBpHmvZHzGxGangmSV8zsGxCkRyMymesUXcSFqBucMV28cPghNLnr7URLk4ijdcjCL7huzisNsxs4Qzzumo",
+  "5YRgrP3mjGzrzirYYN5HAQH19cTYREYwGxW6XRJQUzij": "2vNzxZNUfaRGKYA1tWmeHUPxRZAxcY8spMZMg2M98FJxbCxpWo8VkeK5nMbTXYd4MkTnkH5Q4LUYhdQWLQKZP4au",
   "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o": "HoocKMLwq764y82ocMFD5hL9asFEg6bZ4pdZP7Ts5fDrHFXA5yqwTh8AtqC9K9SUwCWiKfuCPh5J5KrkvGkGVT7",
   "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9": "HoocKMLwq764y82ocMFD5hL9asFEg6bZ4pdZP7Ts5fDrHFXA5yqwTh8AtqC9K9SUwCWiKfuCPh5J5KrkvGkGVT7",
   "4BdKaxN8G6ka4GYtQQWk4G4dZRUTX2vQH9GcXdBREFUk": "3R1fh5Qvw5G1eYc2gxRM5C6z15cpCCDF1cevKKLB4J6GdjHtho16DeNdej172YXwTQHqfLRhyeH34EDrxVkkNJnN",
   "G3gZWqrYkNmYFKYCyfRCNtGuxdyuE2wiYKkZpiZn4WSS": "5wycWv2TSs3w7kyYX3vcXZhPtU7QWKc1LU7bqePXNRZDfc96iwWnkSS6BYZibegyoabS1QbgcvBQDHyTLZideFq9",
-  "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx": "52AHrVz9E1D3kfnVThu3QbizNTd1dqFhQDmzUWfWXnUKckWZ7e8kZpRC3FSHLSPMJRP3HN4UB8AvuCHj1LJQiR7S",
-  "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT": "2J4bx1kKzaa5tYmmi6HmbJ8n5ZtFSd7o5nBtZfK9EPbQ4DL9DSXGEo7digjVRxpA2gHg9KGjA8iFjigNjnEtyaEc",
+  "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx": "5Tt8XBBNR2HYaxRmcGk436Qv4H59zgaDkBXoLEt5rUxjbmtt7BQwyojjmUCahvKVbcMGEVBKjiHLeEeKhjr2eTFu",
+  "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT": "359VubVegji18RvgFaMjHrV7E29ybapwhmM7a7BDS2BAG3PQAk6Y3GGEFd8Vm7i86dv8tp7Kush7auq1btr7SH1Z",
   "7SDs3PjT2mswKQ7Zo4FTucn9gJdtuW4jaacPA65BseHS": "29Ksn7idxZH75akocWV33z7jnZAbd2U5v6GXy2kvedyQkuzSKuXq1UjJ3vXR6PspoWG2XXvc3gKuo7KVCdcjPaE8"
  }
 }

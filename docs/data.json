@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T17:43:55Z",
+ "generated": "2026-10-25T20:07:27Z",
  "persons": [
   {
    "name": "slingoor",
@@ -232,10 +232,10 @@
    },
    "buys": {
     "count": 4,
-    "evaluated": 3,
+    "evaluated": 4,
     "n24": 1,
     "n7": 0,
-    "h1": 0.003,
+    "h1": -0.1228,
     "h24": -0.2929,
     "d7": null,
     "peak24": 0.2066,
@@ -245,7 +245,7 @@
    },
    "pre_buy_rate": null,
    "sold_after_rate": null,
-   "median_hold_h": 0.5,
+   "median_hold_h": 0.65,
    "score": null,
    "score_basis": null,
    "badges": [
@@ -273,11 +273,11 @@
     "win7": null
    },
    "buys": {
-    "count": 38,
-    "evaluated": 27,
+    "count": 51,
+    "evaluated": 47,
     "n24": 0,
     "n7": 0,
-    "h1": -0.3276,
+    "h1": -0.1193,
     "h24": null,
     "d7": null,
     "peak24": null,
@@ -293,7 +293,7 @@
    "badges": [
     "データ不足"
    ],
-   "last_seen": "2026-10-25T17:29:14Z"
+   "last_seen": "2026-10-25T19:34:22Z"
   },
   {
    "name": "Insentos",
@@ -343,6 +343,292 @@
    "kind": "buy",
    "person": "KOREAN",
    "source": "6KR7…NeGT",
+   "ts": 1792956862,
+   "symbol": "GADI",
+   "token": "72UuvWnASEUdiMZkUbNLUwEGWjeDUCVoaaT8kKZSpump",
+   "link": "https://solscan.io/tx/2ycwx7Cxdwu1JkwaZCABwR2z4gTzooV6383fHDNifyVTAE4xGQoud74cESmbwrbmeUYogBoeK5pPfEcoUa687iXq",
+   "ret": {
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null
+   },
+   "pre_buy": null,
+   "sold_after": null,
+   "checked_wallet": null,
+   "held_hours": 0.0,
+   "unknown": false,
+   "dead": false
+  },
+  {
+   "kind": "buy",
+   "person": "KOREAN",
+   "source": "6KR7…NeGT",
+   "ts": 1792956050,
+   "symbol": "BEAR",
+   "token": "3JRmsC2RCq12EDdqvRLrDnrYvQQQfMCbumcejEvApump",
+   "link": "https://solscan.io/tx/34vze9a1ddxor8fYjSkf8F9HmpfDJGENyWoTsepNkoznqyptKeSLWcsxPFLsSkJNsL4HJF5pt1DDq9UqRUk9XHqH",
+   "ret": {
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null
+   },
+   "pre_buy": null,
+   "sold_after": null,
+   "checked_wallet": null,
+   "held_hours": 0.0,
+   "unknown": false,
+   "dead": false
+  },
+  {
+   "kind": "buy",
+   "person": "KOREAN",
+   "source": "6KR7…NeGT",
+   "ts": 1792956004,
+   "symbol": "ZIP-ZAP",
+   "token": "83S8fHCV5XXrhER5RSWeW15YHaEMFFrE7Q8xGGKEpump",
+   "link": "https://solscan.io/tx/43UVERfYSCE2LYcZpXAKSxLMfXABcbxQAe52M11B5TXGJ5acZgcXjGWxXWC5Vt3gJz7N3cYvrSKPFzsBte3qGTTY",
+   "ret": {
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null
+   },
+   "pre_buy": null,
+   "sold_after": null,
+   "checked_wallet": null,
+   "held_hours": 0.0,
+   "unknown": false,
+   "dead": false
+  },
+  {
+   "kind": "buy",
+   "person": "KOREAN",
+   "source": "6KR7…NeGT",
+   "ts": 1792951279,
+   "symbol": "MEMESTOCK",
+   "token": "EKeNQmShqL1yAxNkqk6JN8CQJCGDPKRy8MqZkmk6pump",
+   "link": "https://solscan.io/tx/UszPYMueLC8iY69diSuv9uah3gNs51HyLizdZMBDUDyBvq5x23vwtdrkgur8ydGWjeW24DwMB9wqXmVsvpgcYYY",
+   "ret": {
+    "h1": -0.7511298178343299,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null
+   },
+   "pre_buy": null,
+   "sold_after": null,
+   "checked_wallet": null,
+   "held_hours": null,
+   "unknown": false,
+   "dead": false
+  },
+  {
+   "kind": "buy",
+   "person": "KOREAN",
+   "source": "6KR7…NeGT",
+   "ts": 1792950824,
+   "symbol": "BONK",
+   "token": "C5mwEmnnJk7FCH5PWZecVzjiBce39R2b1RBW47ztChgL",
+   "link": "https://solscan.io/tx/4g6VRCF9T5PL9emP8S7LnFZuM9LSCrtEVHwiCr87eGLmmC6pWzTRn7F9S49bn4nnrnqV2ytm2kuqg75Y2qKW2Vnt",
+   "ret": {
+    "h1": -0.9113091813976463,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null
+   },
+   "pre_buy": null,
+   "sold_after": null,
+   "checked_wallet": null,
+   "held_hours": 0.0,
+   "unknown": false,
+   "dead": false
+  },
+  {
+   "kind": "buy",
+   "person": "KOREAN",
+   "source": "6KR7…NeGT",
+   "ts": 1792950693,
+   "symbol": "PUMP",
+   "token": "H2xB3n9effR1zP21EZCxPTNitp9Bh1Z1rpuwAc4Upump",
+   "link": "https://solscan.io/tx/2zXq4zuiLCphuuF1MEjrJp2KwCcAWsBEoWk3Yes53DiPZp9qhjh9VWZ1ahmQapRtbzAfJJbygwR75eGKznr1YEgh",
+   "ret": {
+    "h1": 0.15764605793455355,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null
+   },
+   "pre_buy": null,
+   "sold_after": null,
+   "checked_wallet": null,
+   "held_hours": 0.0,
+   "unknown": false,
+   "dead": false
+  },
+  {
+   "kind": "buy",
+   "person": "KOREAN",
+   "source": "6KR7…NeGT",
+   "ts": 1792950380,
+   "symbol": "STONKER",
+   "token": "xzbwAxmjtxsR36tF5s5bN3pjYdfhSRvMgZKZcu2byx3",
+   "link": "https://solscan.io/tx/3X9LYyVCqdR6ghkwnjEM4bTYYEfZy5h7e5Bz74t54gHfvFczUK9EA3faixRyLzduYWFQfa2GZ6N5jcCifAS8zqqi",
+   "ret": {
+    "h1": 0.0,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null
+   },
+   "pre_buy": null,
+   "sold_after": null,
+   "checked_wallet": null,
+   "held_hours": 0.0,
+   "unknown": false,
+   "dead": false
+  },
+  {
+   "kind": "buy",
+   "person": "KOREAN",
+   "source": "6KR7…NeGT",
+   "ts": 1792950300,
+   "symbol": "MAX",
+   "token": "3GyJAwbWSKiS44CZSuoKeTjYggVEJUZBM85c2yjRpump",
+   "link": "https://solscan.io/tx/4ZcxU6bqznneuBkjNQwT43a57wVp5Zwy7zngY6P7KvPXfqPrMajHwwDQ3gwSiUWPjLyqmt59DgEobmLVqp4CeZwr",
+   "ret": {
+    "h1": -0.5014170178008567,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null
+   },
+   "pre_buy": null,
+   "sold_after": null,
+   "checked_wallet": null,
+   "held_hours": 0.0,
+   "unknown": false,
+   "dead": false
+  },
+  {
+   "kind": "buy",
+   "person": "KOREAN",
+   "source": "6KR7…NeGT",
+   "ts": 1792950278,
+   "symbol": "AIRDROP",
+   "token": "6Z4m67HB7Epztw9x7MDkcpVrVvs4AJoDswnjbZYazKzE",
+   "link": "https://solscan.io/tx/35JyUUdbRkkjGrZGKWRjJkYcxWUEEGh8DL2k5bmgdJ6MRZnjzuZEjb14vMLAZnakxJLXphNkt4mXy8XyZi2gofUC",
+   "ret": {
+    "h1": -0.20860480215580246,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null
+   },
+   "pre_buy": null,
+   "sold_after": null,
+   "checked_wallet": null,
+   "held_hours": 0.0,
+   "unknown": false,
+   "dead": false
+  },
+  {
+   "kind": "buy",
+   "person": "KOREAN",
+   "source": "6KR7…NeGT",
+   "ts": 1792949907,
+   "symbol": "ZARA",
+   "token": "3GrSXwV4XYDz1BKUw24jXMDVLun5Cvggf6NxTb69pump",
+   "link": "https://solscan.io/tx/3iYUJwEzHaGhFM31uodT1LdzRz6rwQVAcBnhnKB9MyvwCXZmk2wvBFVMo315CB3N7SeufnNkn9E3s4VT1RLNkYk6",
+   "ret": {
+    "h1": -0.023684156353323438,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null
+   },
+   "pre_buy": null,
+   "sold_after": null,
+   "checked_wallet": null,
+   "held_hours": 0.0,
+   "unknown": false,
+   "dead": false
+  },
+  {
+   "kind": "buy",
+   "person": "KOREAN",
+   "source": "6KR7…NeGT",
+   "ts": 1792949757,
+   "symbol": "TORTA",
+   "token": "HZ4NiZnG43vgDj8PTkvePAuzJ3TcFDH5AMp1sMQgpump",
+   "link": "https://solscan.io/tx/2GkB5SFUPn6YK72MuehnUXgwW2Sgi6NkHJunnpGSqsqGpPu5BPrqo757aTqBAo4VtypGtsVEGd2wwLTaB61LKx5Z",
+   "ret": {
+    "h1": -0.028727028693167567,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null
+   },
+   "pre_buy": null,
+   "sold_after": null,
+   "checked_wallet": null,
+   "held_hours": 0.0,
+   "unknown": false,
+   "dead": false
+  },
+  {
+   "kind": "buy",
+   "person": "KOREAN",
+   "source": "6KR7…NeGT",
+   "ts": 1792949753,
+   "symbol": "TORTA",
+   "token": "UYdqDEE7Yvoo5Gr1KoNhNEDd7SQtFYieLC9E8ovm1R8",
+   "link": "https://solscan.io/tx/5YZMoBNHPzjALhWYFArN417HhGsweKpQkoetn1UPcSStqyGNGr2WcPkVU88Pzsc4cjVVfenF21V5SBzxM6513UdC",
+   "ret": {
+    "h1": 0.0,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null
+   },
+   "pre_buy": null,
+   "sold_after": null,
+   "checked_wallet": null,
+   "held_hours": 0.0,
+   "unknown": false,
+   "dead": false
+  },
+  {
+   "kind": "buy",
+   "person": "KOREAN",
+   "source": "6KR7…NeGT",
+   "ts": 1792949733,
+   "symbol": "PAD",
+   "token": "5ANeG7zkn8b8q57iZCoZHP25YeAvxKCAYQRjTnowbHKo",
+   "link": "https://solscan.io/tx/5dmcJ7JWXh8TkPxbKmD9qS4cd9e63UPFqzd2af8PuYXLQd3LWod4KZMwd7ksnmf1aPFj5B8RrFxYr19458DUYt5s",
+   "ret": {
+    "h1": 0.0,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null
+   },
+   "pre_buy": null,
+   "sold_after": null,
+   "checked_wallet": null,
+   "held_hours": 0.0,
+   "unknown": false,
+   "dead": false
+  },
+  {
+   "kind": "buy",
+   "person": "KOREAN",
+   "source": "6KR7…NeGT",
    "ts": 1792949354,
    "symbol": null,
    "token": "2jnwYr4RNeBX7gNYbCYMdXJ5Gdmg634GriDmo2vkpump",
@@ -370,7 +656,7 @@
    "token": "DKrXVcGVznerfrHoQB7csFNfwMMrhgivYMr99ttbpump",
    "link": "https://solscan.io/tx/ruEpggFBzT2g2fF7FrWGRHC8TnosnryBodbqvk4QZgLuoxBi16YjQapyA6NUyZcKQCanR12yQh2hGBtLPHPZDc8",
    "ret": {
-    "h1": null,
+    "h1": -0.3573252710597996,
     "h24": null,
     "d7": null,
     "peak24": null,
@@ -392,7 +678,7 @@
    "token": "DXh3KHy5XDVz2kwM82eLnSMrrPRrFaiVguoVeQkcGAo8",
    "link": "https://solscan.io/tx/4obiRWaGTxLU3rV99Zb8Qn2UNcvZtrKHmvZiWQZV98t9KPzQhibj8PPGvJTxMPsTCYmnCEBMAAPh3crRaz9ZcN4q",
    "ret": {
-    "h1": null,
+    "h1": -0.5915866571957767,
     "h24": null,
     "d7": null,
     "peak24": null,
@@ -414,7 +700,7 @@
    "token": "Acbvre8BgxP8mcqCNqhPMJ4n88Wz6bdVAFo5h9ZPpump",
    "link": "https://solscan.io/tx/4pbFVaa5MnPjm828iiASTGZ5oyWxcLJqxTYjXe5CjWKVJGXXyMvvR2meTGB2mrvKiMMtqxrbWzBHUHEhTkAYaaX",
    "ret": {
-    "h1": null,
+    "h1": -0.664227197748618,
     "h24": null,
     "d7": null,
     "peak24": null,
@@ -436,7 +722,7 @@
    "token": "2zSqWkLhDrM5gLJsA9jF68L1GPbpw1zM3ZbUrVHiFDUH",
    "link": "https://solscan.io/tx/3xDLyDo96x96x4x6H3v2NaYN8bR3S7prNWekJUEdtJWu6c6zEWg8mnr17UgevKZNP9VR1wLXa8QduTJkPyVSdtEy",
    "ret": {
-    "h1": null,
+    "h1": -0.17652948426854076,
     "h24": null,
     "d7": null,
     "peak24": null,
@@ -458,7 +744,7 @@
    "token": "3YeXjSegBAWGKnhB8N2GyQtqT3GfbJD5FMfwtM7Xvz6p",
    "link": "https://solscan.io/tx/2XqLQNZUHnbeauoNqaRHsJmLrDz2Q9DTrsbMDwu521nMDisSP4ac1vbWCDZGf5r2L72bwYsHkPgS12Xiy4XZcNhD",
    "ret": {
-    "h1": null,
+    "h1": -0.0073219345302573124,
     "h24": null,
     "d7": null,
     "peak24": null,
@@ -480,7 +766,7 @@
    "token": "4KxLjiNzxin7dKZiM65zWLytZw3Z5aBpq63FGe63pump",
    "link": "https://solscan.io/tx/3SFAxB7Skbryj1cMxsb4BLDYXdxdwqj1krqgcTjq7gBuCEmZaiFgLhATdbn2zZeTnPu2e6KiZscGCWqntaH4G9MX",
    "ret": {
-    "h1": null,
+    "h1": -0.09735278743357734,
     "h24": null,
     "d7": null,
     "peak24": null,
@@ -502,7 +788,7 @@
    "token": "3G8K3ckZgHYDZ3jPz5oaoJvibydATse3eQMdX5KFpump",
    "link": "https://solscan.io/tx/5e8uFQdfZkK5MUkkYpeVNftpA9TRrpbkWG5z4HdTXii9wUocRywA15nT9vQsWaCCg41sW9oQvLJSaKfTQo7oQvsE",
    "ret": {
-    "h1": null,
+    "h1": -0.10480270030652472,
     "h24": null,
     "d7": null,
     "peak24": null,
@@ -524,7 +810,7 @@
    "token": "FgPfPLDku2ZFwA5hNrtnTjjfRVAxcb3AzRVc6CBGaiZp",
    "link": "https://solscan.io/tx/34Fo62ge6S3XX719hpjoJ2F2SLSHMTDqqSiFBHJM1dRwK8gj9qkUbKkzWHFEsk1ZPEceiLimr4Wx63uKPyKk8EEu",
    "ret": {
-    "h1": null,
+    "h1": 0.00402535692212691,
     "h24": null,
     "d7": null,
     "peak24": null,
@@ -546,7 +832,7 @@
    "token": "8gTqCuFnhybUMQnKqVoqd3q3qhjwZpdEjBxybS7Apump",
    "link": "https://solscan.io/tx/2stvKeGVDAS2PyUaBoRxT4QSDVJMyNXLAjmViuBFY63LJJ19hwatTv1MNuDDveNekvk4iCTzL5LphA7wgt7degj1",
    "ret": {
-    "h1": null,
+    "h1": -0.6913638532633836,
     "h24": null,
     "d7": null,
     "peak24": null,
@@ -555,7 +841,7 @@
    "pre_buy": null,
    "sold_after": null,
    "checked_wallet": null,
-   "held_hours": null,
+   "held_hours": 0.8,
    "unknown": false,
    "dead": false
   },
@@ -568,7 +854,7 @@
    "token": "45vp1uNLV6HZp4SAKjs6PRGw3otyp64ymiuDPCoWpump",
    "link": "https://solscan.io/tx/2EHiF59tcc2VJkbqzm2M9n7Yd5JjUTFeyZ812NNnuR9CsfajsGsaiXT79wKmLGxxxH6VgrSQp9g9Z5YhzvHRqemW",
    "ret": {
-    "h1": null,
+    "h1": -0.030128872403691997,
     "h24": null,
     "d7": null,
     "peak24": null,
@@ -590,7 +876,7 @@
    "token": "F2ZgkMDvCKhpxwLciMaVCVjXuB8UdwJMm2AwZmSHpump",
    "link": "https://solscan.io/tx/4bdw9P7AcRAjpL4jb2daQErpeyHb1fpzhrR5Wp2CQgbbDXvT5JZQK2LRbDnyAhiW59ApqrDimY4tNFycpWuUPVWh",
    "ret": {
-    "h1": null,
+    "h1": 0.019098615952208853,
     "h24": null,
     "d7": null,
     "peak24": null,
@@ -1266,6 +1552,6 @@
  ],
  "totals": {
   "posts": 0,
-  "trades": 137
+  "trades": 175
  }
 }
