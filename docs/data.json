@@ -1,12 +1,306 @@
 {
- "generated": "2026-10-25T04:38:38Z",
+ "generated": "2026-10-25T04:45:00Z",
  "persons": [
   {
-   "name": "サンプル（書き換えてください）",
-   "telegram": [
-    "example_channel"
+   "name": "slingoor",
+   "telegram": [],
+   "wallets": [
+    "5YRgrP3mjGzrzirYYN5HAQH19cTYREYwGxW6XRJQUzij"
    ],
-   "wallets": [],
+   "posts": {
+    "count": 0,
+    "evaluated": 0,
+    "n24": 0,
+    "n7": 0,
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null,
+    "win24": null,
+    "win7": null
+   },
+   "buys": {
+    "count": 0,
+    "evaluated": 0,
+    "n24": 0,
+    "n7": 0,
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null,
+    "win24": null,
+    "win7": null
+   },
+   "pre_buy_rate": null,
+   "sold_after_rate": null,
+   "median_hold_h": null,
+   "score": null,
+   "score_basis": null,
+   "badges": [
+    "データ不足"
+   ],
+   "last_seen": null
+  },
+  {
+   "name": "Cented",
+   "telegram": [],
+   "wallets": [
+    "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o"
+   ],
+   "posts": {
+    "count": 0,
+    "evaluated": 0,
+    "n24": 0,
+    "n7": 0,
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null,
+    "win24": null,
+    "win7": null
+   },
+   "buys": {
+    "count": 0,
+    "evaluated": 0,
+    "n24": 0,
+    "n7": 0,
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null,
+    "win24": null,
+    "win7": null
+   },
+   "pre_buy_rate": null,
+   "sold_after_rate": null,
+   "median_hold_h": null,
+   "score": null,
+   "score_basis": null,
+   "badges": [
+    "データ不足"
+   ],
+   "last_seen": null
+  },
+  {
+   "name": "decu",
+   "telegram": [],
+   "wallets": [
+    "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9"
+   ],
+   "posts": {
+    "count": 0,
+    "evaluated": 0,
+    "n24": 0,
+    "n7": 0,
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null,
+    "win24": null,
+    "win7": null
+   },
+   "buys": {
+    "count": 0,
+    "evaluated": 0,
+    "n24": 0,
+    "n7": 0,
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null,
+    "win24": null,
+    "win7": null
+   },
+   "pre_buy_rate": null,
+   "sold_after_rate": null,
+   "median_hold_h": null,
+   "score": null,
+   "score_basis": null,
+   "badges": [
+    "データ不足"
+   ],
+   "last_seen": null
+  },
+  {
+   "name": "Jijo",
+   "telegram": [],
+   "wallets": [
+    "4BdKaxN8G6ka4GYtQQWk4G4dZRUTX2vQH9GcXdBREFUk"
+   ],
+   "posts": {
+    "count": 0,
+    "evaluated": 0,
+    "n24": 0,
+    "n7": 0,
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null,
+    "win24": null,
+    "win7": null
+   },
+   "buys": {
+    "count": 0,
+    "evaluated": 0,
+    "n24": 0,
+    "n7": 0,
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null,
+    "win24": null,
+    "win7": null
+   },
+   "pre_buy_rate": null,
+   "sold_after_rate": null,
+   "median_hold_h": null,
+   "score": null,
+   "score_basis": null,
+   "badges": [
+    "データ不足"
+   ],
+   "last_seen": null
+  },
+  {
+   "name": "Goyim",
+   "telegram": [],
+   "wallets": [
+    "G3gZWqrYkNmYFKYCyfRCNtGuxdyuE2wiYKkZpiZn4WSS"
+   ],
+   "posts": {
+    "count": 0,
+    "evaluated": 0,
+    "n24": 0,
+    "n7": 0,
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null,
+    "win24": null,
+    "win7": null
+   },
+   "buys": {
+    "count": 0,
+    "evaluated": 0,
+    "n24": 0,
+    "n7": 0,
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null,
+    "win24": null,
+    "win7": null
+   },
+   "pre_buy_rate": null,
+   "sold_after_rate": null,
+   "median_hold_h": null,
+   "score": null,
+   "score_basis": null,
+   "badges": [
+    "データ不足"
+   ],
+   "last_seen": null
+  },
+  {
+   "name": "Eddy",
+   "telegram": [],
+   "wallets": [
+    "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx"
+   ],
+   "posts": {
+    "count": 0,
+    "evaluated": 0,
+    "n24": 0,
+    "n7": 0,
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null,
+    "win24": null,
+    "win7": null
+   },
+   "buys": {
+    "count": 0,
+    "evaluated": 0,
+    "n24": 0,
+    "n7": 0,
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null,
+    "win24": null,
+    "win7": null
+   },
+   "pre_buy_rate": null,
+   "sold_after_rate": null,
+   "median_hold_h": null,
+   "score": null,
+   "score_basis": null,
+   "badges": [
+    "データ不足"
+   ],
+   "last_seen": null
+  },
+  {
+   "name": "KOREAN",
+   "telegram": [],
+   "wallets": [
+    "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT"
+   ],
+   "posts": {
+    "count": 0,
+    "evaluated": 0,
+    "n24": 0,
+    "n7": 0,
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null,
+    "win24": null,
+    "win7": null
+   },
+   "buys": {
+    "count": 0,
+    "evaluated": 0,
+    "n24": 0,
+    "n7": 0,
+    "h1": null,
+    "h24": null,
+    "d7": null,
+    "peak24": null,
+    "low24": null,
+    "win24": null,
+    "win7": null
+   },
+   "pre_buy_rate": null,
+   "sold_after_rate": null,
+   "median_hold_h": null,
+   "score": null,
+   "score_basis": null,
+   "badges": [
+    "データ不足"
+   ],
+   "last_seen": null
+  },
+  {
+   "name": "Insentos",
+   "telegram": [],
+   "wallets": [
+    "7SDs3PjT2mswKQ7Zo4FTucn9gJdtuW4jaacPA65BseHS"
+   ],
    "posts": {
     "count": 0,
     "evaluated": 0,
