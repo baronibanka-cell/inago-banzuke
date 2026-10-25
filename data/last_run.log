@@ -1,23 +1,52 @@
 collecting Telegram posts
 collecting wallet trades
-  ! rpc getTransaction: Transaction version (1) is not supported by the requesting client. Please try the request again with the following configuration parameter: "maxSupportedTransactionVersion": 1
-  ! wallet 5YRgrP…: stopped reading transactions (RPC refused)
-  wallet 5YRgrP…: 58 new tx, 0 swaps
-  wallet CyaE1V…: 0 new tx, 0 swaps
-  wallet 4vw54B…: 0 new tx, 0 swaps
-  wallet 4BdKax…: 0 new tx, 0 swaps
-  wallet G3gZWq…: 2 new tx, 0 swaps
   ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
-  ! rpc getTransaction: Transaction version (1) is not supported by the requesting client. Please try the request again with the following configuration parameter: "maxSupportedTransactionVersion": 1
-  ! wallet DuGezK…: stopped reading transactions (RPC refused)
-  wallet DuGezK…: 60 new tx, 0 swaps
-  ! rpc getTransaction: Transaction version (1) is not supported by the requesting client. Please try the request again with the following configuration parameter: "maxSupportedTransactionVersion": 1
-  ! wallet 6KR7So…: stopped reading transactions (RPC refused)
-  wallet 6KR7So…: 60 new tx, 0 swaps
-  ! rpc getTransaction: Transaction version (1) is not supported by the requesting client. Please try the request again with the following configuration parameter: "maxSupportedTransactionVersion": 1
-  ! wallet 7SDs3P…: stopped reading transactions (RPC refused)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  wallet 5YRgrP…: 58 new tx, 0 swaps
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  wallet CyaE1V…: 3 new tx, 0 swaps
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  wallet 4vw54B…: 4 new tx, 0 swaps
+  wallet 4BdKax…: 4 new tx, 0 swaps
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  wallet G3gZWq…: 60 new tx, 0 swaps
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  wallet DuGezK…: 60 new tx, 11 swaps
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  wallet 6KR7So…: 60 new tx, 36 swaps
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
+  ! api.mainnet-beta.solana.com: HTTP 429 (retrying)
   wallet 7SDs3P…: 59 new tx, 0 swaps
-0 new events
+47 new events
 updating prices
-  prices: updated 0 events, 120 calls left, 0 waiting
-report: 8 people, 0 posts, 0 trades
+  prices: updated 22 events, 83 calls left, 3 waiting
+report: 8 people, 0 posts, 47 trades

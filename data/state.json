@@ -2,5 +2,90 @@
  "telegram": {
   "example_channel": 10
  },
- "tokens": {}
+ "tokens": {
+  "H5pcM8AJP34Ybmom8mB2SngK33j6HL9mem1PpdkHpump": {
+   "token": "H5pcM8AJP34Ybmom8mB2SngK33j6HL9mem1PpdkHpump",
+   "pool": "EfQ2DqoNtT3HQMNvLNLCUojvXpKSdUBCzRXQj2zYP7Nm",
+   "symbol": "BOOBIES"
+  },
+  "9ttz4kiaZyfDQQFsWW66GGoW4Ngctn5bJPU8ARDVpump": {
+   "token": "9ttz4kiaZyfDQQFsWW66GGoW4Ngctn5bJPU8ARDVpump",
+   "pool": "DZVWQY1MXieqoEmajAy34qptBXphkKUb3UuSpPPFoViS",
+   "symbol": "Clump"
+  },
+  "4essE1bn3BGZTFQVmPrDBSvr2FrnrZ8pVKdKmWzJpump": {
+   "token": "4essE1bn3BGZTFQVmPrDBSvr2FrnrZ8pVKdKmWzJpump",
+   "pool": "Df2W6eTdCSyeaPihNapd6DAZuCEgCYKgt2M2dMwTxjnT",
+   "symbol": "Morgano"
+  },
+  "EdF7CwYbtDj8T34PVDLhrgb84qk2gB5fAmdYrjnmpump": {
+   "checked": 1792904112,
+   "tries": 1
+  },
+  "CQRai8AYpZyt2We1psVyJWSAeGkCnhaQRmKM2S74Td8": {
+   "token": "CQRai8AYpZyt2We1psVyJWSAeGkCnhaQRmKM2S74Td8",
+   "pool": "38x94DkYQ1KgFH9p8usUdVNKTkmYprMeb6na8XNJ6uKh",
+   "symbol": "GIN-CHAN"
+  },
+  "5YLhMLpH6GTqjXDAzSHLigZ3ZjgEouShRBgup3sopump": {
+   "token": "5YLhMLpH6GTqjXDAzSHLigZ3ZjgEouShRBgup3sopump",
+   "pool": "C2qyLmfBBn87miSVfx64jAMGjnEkGxTHBhnQMf5Km142",
+   "symbol": "fae"
+  },
+  "6mBsjF6Gy2xF1nTAETHQ7W2rvLAAaV4BZQ9myxSqwpS4": {
+   "token": "6mBsjF6Gy2xF1nTAETHQ7W2rvLAAaV4BZQ9myxSqwpS4",
+   "pool": "zXcZbHh975SpYVLnJgqK9hhbjSDUon1FwkhJHL2z5L8",
+   "symbol": "Fired"
+  },
+  "8xVXRNWJBroriN8P4s4HjD9JmvHP92GfXbeyzvG74HL3": {
+   "token": "8xVXRNWJBroriN8P4s4HjD9JmvHP92GfXbeyzvG74HL3",
+   "pool": "CsHPrwFExcjVZYWUuCdTYXJVaRBM34rEkkEzw4CckrY4",
+   "symbol": "SKINWALKER"
+  },
+  "HN8aMcfvrjZH5omnV7siSb16TTyoei4EGAPVcxj5Xc6M": {
+   "token": "HN8aMcfvrjZH5omnV7siSb16TTyoei4EGAPVcxj5Xc6M",
+   "pool": "2SFT6984vYpxC8C87wUSveQNn3Apdao4JwJXwg5KbAfA",
+   "symbol": "PF"
+  },
+  "5XfZreiNDc36aRVwd5pnNEtxdFtmTdo9j82R2XkKpump": {
+   "token": "5XfZreiNDc36aRVwd5pnNEtxdFtmTdo9j82R2XkKpump",
+   "pool": "C8ge82CB6mYG3zTbMMB7PtCdsDbuMHhgpv5ESR9bQFQz",
+   "symbol": "LIFE"
+  },
+  "46MjHjwCnu47ySpCC32rfUZ5jYqnbxrhdT9HPJhKpump": {
+   "token": "46MjHjwCnu47ySpCC32rfUZ5jYqnbxrhdT9HPJhKpump",
+   "pool": "6CvuVMP5zqYJv6q4YvjnN8eF3JX7UaMj8xwh4oPQgf7h",
+   "symbol": "pumpfun"
+  },
+  "3uDMducBUSW3bBME19rJHZNpuADucZs8kgB7NdUnV1jD": {
+   "token": "3uDMducBUSW3bBME19rJHZNpuADucZs8kgB7NdUnV1jD",
+   "pool": "AaCpfLJbrn3YKFYP8JJR8ktqy6odrsyGk5wXQPS24MYi",
+   "symbol": "FART"
+  },
+  "GQ5Egb2CCkJxvxGQhzp3dJmKRGpTni2Mw4GnMvtppump": {
+   "token": "GQ5Egb2CCkJxvxGQhzp3dJmKRGpTni2Mw4GnMvtppump",
+   "pool": "E5QX6Dm7bPsuh4cS7YD61nt5rcyTkQXEYSyZ8iEDBrxk",
+   "symbol": "HI"
+  },
+  "EVQtaC7JhakRZr4deKv8nbhqs9YaRt3eVDxt6DyQo6ea": {
+   "token": "EVQtaC7JhakRZr4deKv8nbhqs9YaRt3eVDxt6DyQo6ea",
+   "pool": "9CzQZsHHHTBjYZkdvJER3BdBuMPooEk4qqP9aw22tZeo",
+   "symbol": "PVE"
+  },
+  "AfrJ94Z9F93GYpU5uytkr3pgLrwv5XYqMSUUgyyipump": {
+   "token": "AfrJ94Z9F93GYpU5uytkr3pgLrwv5XYqMSUUgyyipump",
+   "pool": "Gz5GLcpWN9LyGQ9hrWbRBjpHXYMDKzkpnRZ498wwCMXR",
+   "symbol": "Lovot"
+  }
+ },
+ "wallets": {
+  "5YRgrP3mjGzrzirYYN5HAQH19cTYREYwGxW6XRJQUzij": "4F88b15HMWFQtEsCSsBtk3sfHtdjxsHCqB44BcNRjwx5dpSEN9ZYqhLPaVvc1SHN2LMkmJNEHu3oyUPTpNex8eGE",
+  "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o": "t1bcdcmhkJn7iJh2BB1CZepQky1NcWSPbomc2txQcGvDB5abKgbdvh7sWG6JrpSnomSPeEsAcAAeP8Ba9xy8saG",
+  "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9": "4U7SMPV1GtVkxM5PoE32iv372Z1bTpPbBd45JeirWvinu8zc3HbnYB4vuwE2LZE8UzTmAN8s7zUu8VngB6bny15M",
+  "4BdKaxN8G6ka4GYtQQWk4G4dZRUTX2vQH9GcXdBREFUk": "3R1fh5Qvw5G1eYc2gxRM5C6z15cpCCDF1cevKKLB4J6GdjHtho16DeNdej172YXwTQHqfLRhyeH34EDrxVkkNJnN",
+  "G3gZWqrYkNmYFKYCyfRCNtGuxdyuE2wiYKkZpiZn4WSS": "iP7EVZEWG1tVqeH7iZdfFEDwMqDBJY3t3KCcZ2upWXykaMWFS34DgmFBE695X284T2dNiosTnoTkxfmhezFhB8G",
+  "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx": "47LPVNU8zyNyqv6X1P9uUC4G7B7dieAyihkY5aXGhKFBR8dP8B2Q2TkbM5FjYcNYWax9aEWuwuJQ1WMQAHxvZTe",
+  "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT": "3M2DRyRxK8xbEhkgGVarUBwCio6nPRcWheX5uAEcKk4e7yqMiwWUT3CKV44M4hR8rgX9hkeug3Qox25SbZ1gRX89",
+  "7SDs3PjT2mswKQ7Zo4FTucn9gJdtuW4jaacPA65BseHS": "3rKRKrnK5ymdC5Gw2t2bmfx3Xt6Yh21JZS4Ec8NMcFqLeUtedbdufCAGh1iZruwArDY8gZKpRUsefUtmt2n74ppE"
+ }
 }
