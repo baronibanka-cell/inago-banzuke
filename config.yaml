@@ -3,18 +3,31 @@
 # ・wallets : その人のSolanaウォレットアドレス（Kolscan、GMGN等で公開されているもの）
 # どちらか片方だけでもOKです。同じ人のチャンネルと財布を並べると
 # 「投稿前に買っていたか」「投稿後すぐ売ったか」も自動で判定します。
+#
+# 初期メンバー：Kolscanリーダーボード上位（2026年10月25日時点）から8人
 
 people:
-  - name: サンプル（書き換えてください）
-    telegram:
-      - example_channel
-    wallets: []
+  - name: slingoor
+    wallets: [5YRgrP3mjGzrzirYYN5HAQH19cTYREYwGxW6XRJQUzij]
+  - name: Cented
+    wallets: [CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o]
+  - name: decu
+    wallets: [4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9]
+  - name: Jijo
+    wallets: [4BdKaxN8G6ka4GYtQQWk4G4dZRUTX2vQH9GcXdBREFUk]
+  - name: Goyim
+    wallets: [G3gZWqrYkNmYFKYCyfRCNtGuxdyuE2wiYKkZpiZn4WSS]
+  - name: Eddy
+    wallets: [DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx]
+  - name: KOREAN
+    wallets: [6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT]
+  - name: Insentos
+    wallets: [7SDs3PjT2mswKQ7Zo4FTucn9gJdtuW4jaacPA65BseHS]
 
-  # - name: 2人目
-  #   telegram:
-  #     - another_channel
-  #   wallets:
-  #     - ここにウォレットアドレス
+  # Telegramチャンネルを足すときの書き方：
+  # - name: 名前
+  #   telegram: [channel_id]
+  #   wallets: [ウォレットアドレス]
 
 options:
   telegram_backfill_pages: 5   # 初回にさかのぼるページ数（1ページ約20投稿）
