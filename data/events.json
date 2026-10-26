@@ -782,7 +782,11 @@
   "symbol": "BOOBIES",
   "r": {
    "entry": 4.3909883742988946e-06,
-   "h1": 2.952607543298109e-06
+   "h1": 2.952607543298109e-06,
+   "h24": 2.952607543298109e-06,
+   "peak24": 5.107881085579601e-06,
+   "low24": 2.9097910567721144e-06,
+   "peak_after_min": 0
   }
  },
  {
@@ -3291,7 +3295,10 @@
   "size_usd": 0,
   "token": "EYMiKvby7LsHDJUdd8FppFnTJnMbRN2DN23xYcRzkRwp",
   "symbol": "BibiCoin",
-  "r": {}
+  "r": {
+   "entry": 6.099152792502229e-06,
+   "h1": 2.946011811663218e-06
+  }
  },
  {
   "id": "w:3hnqRpprgUnP8XgE8DcRtpDRcE3c5sCjxRRoagbLxJJ8mKyEdQN45Tf18LiGEcUEbKHhgJ3eEXYkTXw95MKYiFVd:aFyVUpFmZAepKzm1GhrYqgN9bW9X9U3Mk2Xs9jqpump",
@@ -3306,7 +3313,10 @@
   "size_usd": 0,
   "token": "aFyVUpFmZAepKzm1GhrYqgN9bW9X9U3Mk2Xs9jqpump",
   "symbol": "BibiCoin",
-  "r": {}
+  "r": {
+   "entry": 3.836323123972542e-05,
+   "h1": 3.836323123972542e-05
+  }
  },
  {
   "id": "w:652KeLpfw1cMvyhUhpkULpa9MF5YZszqaCwJaMj7LSxjFXKh4mYREJcPL34rNw4iQAdZHkJc5dD2H9GwsuDNeMRn:aFyVUpFmZAepKzm1GhrYqgN9bW9X9U3Mk2Xs9jqpump",
@@ -3321,7 +3331,10 @@
   "size_usd": 0,
   "token": "aFyVUpFmZAepKzm1GhrYqgN9bW9X9U3Mk2Xs9jqpump",
   "symbol": "BibiCoin",
-  "r": {}
+  "r": {
+   "entry": 3.836323123972542e-05,
+   "h1": 3.836323123972542e-05
+  }
  },
  {
   "id": "w:3VY4jHXvH7apxG5fgZGd4Zj1wumTQMzd4Yu3NRdSA8mCmdhP2yiVaTVCzZaXW9J4wfoVUy31Q1K4YbGJbBKMP2Ld:94kgXJawdSbPHdUuNYDdHyw17JBxEGh8o5cHXLUwpump",
@@ -3517,7 +3530,8 @@
   "token": "9rm8StVfveyWXDdS2mcM8qvpUxWefm5TZg13cGHgpump",
   "symbol": "psyopcat",
   "r": {
-   "entry": 3.521175249821482e-06
+   "entry": 3.521175249821482e-06,
+   "h1": 2.8830303257646746e-06
   }
  },
  {
@@ -3534,7 +3548,8 @@
   "token": "9rm8StVfveyWXDdS2mcM8qvpUxWefm5TZg13cGHgpump",
   "symbol": "psyopcat",
   "r": {
-   "entry": 3.521175249821482e-06
+   "entry": 3.521175249821482e-06,
+   "h1": 2.8830303257646746e-06
   }
  },
  {

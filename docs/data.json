@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T00:46:42Z",
+ "generated": "2026-10-26T05:24:08Z",
  "persons": [
   {
    "name": "Eddy",
@@ -64,21 +64,21 @@
    },
    "buys": {
     "count": 66,
-    "evaluated": 64,
-    "n24": 11,
+    "evaluated": 65,
+    "n24": 12,
     "n7": 0,
-    "h1": -0.1669,
-    "h24": -0.3619,
+    "h1": -0.172,
+    "h24": -0.3447,
     "d7": null,
-    "peak24": 1.3782,
-    "low24": -0.3619,
+    "peak24": 1.2543,
+    "low24": -0.3496,
     "win24": 0.0,
     "win7": null
    },
    "pre_buy_rate": null,
    "sold_after_rate": null,
    "median_hold_h": 0.0,
-   "score": -0.3619,
+   "score": -0.3447,
    "score_basis": "24時間",
    "badges": [
     "24hで下落"
@@ -148,10 +148,10 @@
    },
    "buys": {
     "count": 2,
-    "evaluated": 0,
+    "evaluated": 2,
     "n24": 0,
     "n7": 0,
-    "h1": null,
+    "h1": -0.2585,
     "h24": null,
     "d7": null,
     "peak24": null,
@@ -348,7 +348,7 @@
    "token": "aFyVUpFmZAepKzm1GhrYqgN9bW9X9U3Mk2Xs9jqpump",
    "link": "https://solscan.io/tx/3hnqRpprgUnP8XgE8DcRtpDRcE3c5sCjxRRoagbLxJJ8mKyEdQN45Tf18LiGEcUEbKHhgJ3eEXYkTXw95MKYiFVd",
    "ret": {
-    "h1": null,
+    "h1": 0.0,
     "h24": null,
     "d7": null,
     "peak24": null,
@@ -370,7 +370,7 @@
    "token": "EYMiKvby7LsHDJUdd8FppFnTJnMbRN2DN23xYcRzkRwp",
    "link": "https://solscan.io/tx/RDut9UQ2d3TayeTW9APhGmWPFWj7zi2xWmuLzX182Nhpmo4yVM7vbC9JAqQstKjZGCU8NiZYJDoHP54mH1ceWTV",
    "ret": {
-    "h1": null,
+    "h1": -0.5169801590665526,
     "h24": null,
     "d7": null,
     "peak24": null,
@@ -392,7 +392,7 @@
    "token": "9rm8StVfveyWXDdS2mcM8qvpUxWefm5TZg13cGHgpump",
    "link": "https://solscan.io/tx/5iZ6uEA7svyjEmpwvpX4YKVqkoqP2zFQx5FcC8RYZRvcZu8ut5AWU54JwghATZxL9URsMU66VowqUCkiP6BSV2Lb",
    "ret": {
-    "h1": null,
+    "h1": -0.18123066271386523,
     "h24": null,
     "d7": null,
     "peak24": null,
@@ -1603,10 +1603,10 @@
    "link": "https://solscan.io/tx/5AjTezVTpFeZ2q3PnjBAfYCQkv1am6BaZFzSAYqGeqv1at7osCyPEKr4KUiVdYafFoCa6AY3kuANrnWu7fr73ANj",
    "ret": {
     "h1": -0.32757564092399827,
-    "h24": null,
+    "h24": -0.32757564092399827,
     "d7": null,
-    "peak24": null,
-    "low24": null
+    "peak24": 0.16326454323513717,
+    "low24": -0.3373266315612329
    },
    "pre_buy": null,
    "sold_after": null,
