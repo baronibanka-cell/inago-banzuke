@@ -119,8 +119,9 @@
    "symbol": "LTC"
   },
   "2jnwYr4RNeBX7gNYbCYMdXJ5Gdmg634GriDmo2vkpump": {
-   "checked": 1792949618,
-   "tries": 1
+   "token": "2jnwYr4RNeBX7gNYbCYMdXJ5Gdmg634GriDmo2vkpump",
+   "pool": "6C3d96DyzXEa1j3xnQKmPQbKSD7tGZ1yCTmyZujZ79zp",
+   "symbol": "Twin"
   },
   "DKrXVcGVznerfrHoQB7csFNfwMMrhgivYMr99ttbpump": {
    "token": "DKrXVcGVznerfrHoQB7csFNfwMMrhgivYMr99ttbpump",
@@ -321,16 +322,56 @@
    "token": "AtsTMEihXJzEkKx5dci4WbY9wrHuCZMEWEyvsom8H2Yo",
    "pool": "38nxXJjo4BchmQB8j3qabagp2HpTtMqqKXXpLAKm4woh",
    "symbol": "PMDA"
+  },
+  "aFyVUpFmZAepKzm1GhrYqgN9bW9X9U3Mk2Xs9jqpump": {
+   "token": "aFyVUpFmZAepKzm1GhrYqgN9bW9X9U3Mk2Xs9jqpump",
+   "pool": "8fgQrW2GewkwsBXR7ZQi1TaY2uaF17L2LVmrgKBP2rvd",
+   "symbol": "BibiCoin"
+  },
+  "EYMiKvby7LsHDJUdd8FppFnTJnMbRN2DN23xYcRzkRwp": {
+   "token": "EYMiKvby7LsHDJUdd8FppFnTJnMbRN2DN23xYcRzkRwp",
+   "pool": "otEvZAHTRfcfbrh7epKMarMforqFKFzjVYYTz3KPFdq",
+   "symbol": "BibiCoin"
+  },
+  "9rm8StVfveyWXDdS2mcM8qvpUxWefm5TZg13cGHgpump": {
+   "token": "9rm8StVfveyWXDdS2mcM8qvpUxWefm5TZg13cGHgpump",
+   "pool": "DDsksuALUuh6iUik4Uw6AANUBi2kwCD37Q9oAUdM6hgK",
+   "symbol": "psyopcat"
+  },
+  "3Qdf1dChuTb1HZB6q5KDKYfa9Jp6SwaRKCbDERJ2pump": {
+   "token": "3Qdf1dChuTb1HZB6q5KDKYfa9Jp6SwaRKCbDERJ2pump",
+   "pool": "2mikNzbuhJCGPimka4RKH9SYfH19X9FqRaHBuhxcbB8G",
+   "symbol": "STONKV2"
+  },
+  "DSYCrn49MPFXBzCPSKGBXD4NWuS8FiQ7CTX4SnVxpump": {
+   "token": "DSYCrn49MPFXBzCPSKGBXD4NWuS8FiQ7CTX4SnVxpump",
+   "pool": "7ySHyAKECavXHpVY6Hkzw3XLD8yDAMcuhcddRnxsKxaN",
+   "symbol": "TUSD"
+  },
+  "9wcjoNRLntkvE5tF7fH7iVUemsi9YbMvZTFfDU9ppump": {
+   "token": "9wcjoNRLntkvE5tF7fH7iVUemsi9YbMvZTFfDU9ppump",
+   "pool": "83qeDPvhXjTmyd47SrVvuFqBH1V5ypL2hXL7B4j8idpj",
+   "symbol": "LIVE"
+  },
+  "5qemyERQrPLmREzbLYzyaN1nNGsw738S1muNS1ZEpump": {
+   "token": "5qemyERQrPLmREzbLYzyaN1nNGsw738S1muNS1ZEpump",
+   "pool": "5i4dkUeZgDbQz4PEim9uksmEXEDWnCtqTpZo5ZLVtYru",
+   "symbol": "Frens"
+  },
+  "94kgXJawdSbPHdUuNYDdHyw17JBxEGh8o5cHXLUwpump": {
+   "token": "94kgXJawdSbPHdUuNYDdHyw17JBxEGh8o5cHXLUwpump",
+   "pool": "B1CcuBU2q7SSdAboX9mSMTEkjvdQoHV6no3trNsLTcCy",
+   "symbol": "Pump"
   }
  },
  "wallets": {
-  "5YRgrP3mjGzrzirYYN5HAQH19cTYREYwGxW6XRJQUzij": "3uA5ZTsauNSnyhkY6nWFrtozsAuykrL9coHAUwXMh3TzkK4CyKcr8PMZYtZEkkgBMDzPt1EtB9D8TWm5oRwT6GD7",
-  "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o": "rRqaM7gmxKg19MnwR2xDJFt9aBJCkJCyFbz5dUXSqqYVT1CCxz82tMx9hwJaGExPjj4yb8ipZskdxc3kMGDrfFu",
-  "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9": "5Z89ZT96EYvypk3cXfzE8J5WoyzhbTC5hmAwNTidQy1mV3P5BBgqRDhvCNx66oaBw6H7DpzjJQn37EpreXDxvCrf",
+  "5YRgrP3mjGzrzirYYN5HAQH19cTYREYwGxW6XRJQUzij": "2ba9Ld5hS1kmsqkQa5FNGvffumecL7ZjKMVV9CdN3jN7Y79AxDVnjFncYf52YAVgr46X4WmrNq7nma2QAkj4pdE3",
+  "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o": "4GjurYC4RE5LqA5aPM6uDtshktELbBtFLeuRWhFUCzvsgoHiSzLnEDJQJtXuyt8JPFtgCo7FnQmtBDvN35XdUrf",
+  "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9": "FEtKbodEMZS1Ri95ZQ5fDXnWvdhzjEkWDZtbjYkxAW4y9z4Dm4DmkyKdaSTFe7T637s8UHLL8qjYvTgcQhm6nT6",
   "4BdKaxN8G6ka4GYtQQWk4G4dZRUTX2vQH9GcXdBREFUk": "3R1fh5Qvw5G1eYc2gxRM5C6z15cpCCDF1cevKKLB4J6GdjHtho16DeNdej172YXwTQHqfLRhyeH34EDrxVkkNJnN",
-  "G3gZWqrYkNmYFKYCyfRCNtGuxdyuE2wiYKkZpiZn4WSS": "4mAsSamAarZagX4sxqhHf861EMJvBqJgCMzPXQHPbcTDgUvRd5znWXfUQCjJs5dkenjQ2ihmucbBx3tSjwLk4xpd",
-  "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx": "5Tt8XBBNR2HYaxRmcGk436Qv4H59zgaDkBXoLEt5rUxjbmtt7BQwyojjmUCahvKVbcMGEVBKjiHLeEeKhjr2eTFu",
-  "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT": "4AkQdwYy6Ne7rV3dbgkBJ5mxn8u1rhXJm8WjDw539m3kQQigUXfBt5u9KnSeY4vsCRnNv9A4MAgdE8NwULmgH1L9",
-  "7SDs3PjT2mswKQ7Zo4FTucn9gJdtuW4jaacPA65BseHS": "29Ksn7idxZH75akocWV33z7jnZAbd2U5v6GXy2kvedyQkuzSKuXq1UjJ3vXR6PspoWG2XXvc3gKuo7KVCdcjPaE8"
+  "G3gZWqrYkNmYFKYCyfRCNtGuxdyuE2wiYKkZpiZn4WSS": "55VzxB8PyTQiox3QQFZLJKTLjqYkkGDpP3BGs3jey1Aujzy2swz2tHBVZM7eVTZ7W8BS9TLoD27eKB1jB8fvQCTp",
+  "DuGezKLZp8UL2aQMHthoUibEC7WSbpNiKFJLTtK1QHjx": "2Xj4WwHTkmiAxCY1bHgy8MtsuEFMhAh5XLcErPKCw9PThRMYJWmiGJV9H2v1zS66eDhfDVwJoaTP5NfHFuvTTP63",
+  "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT": "3x45JGYE22MLBrQP1MfTi7W8RkYxZgPC25BHWcTYoodTNUdUKygVijwiXNXnZ5mEYaMiSJM3U9BfHqGmFCYj3qKh",
+  "7SDs3PjT2mswKQ7Zo4FTucn9gJdtuW4jaacPA65BseHS": "3twaePG9JBHDkRheeNBPUq25frKoGR3JViCDR3teHfRT6gDWw3tXxVnzcacHn8SQQTcMWY8ru1yBfbwijTwCb79Z"
  }
 }
